@@ -1,0 +1,15 @@
+TODO
+
+* Go through each spot
+  * Rename headers (spots, flies)
+  * Add area maps and links to google maps
+  * Process Daves fishing
+  * Go through inyo national forest and add links/info
+    * https://www.fs.usda.gov/activity/inyo/recreation/fishing/?recid=20228&actid=42
+    * https://www.fs.usda.gov/activity/inyo/recreation/fishing/?recid=20228&actid=43
+* Techniques
+* Resources
+* Hatch
+
+
+
