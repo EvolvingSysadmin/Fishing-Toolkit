@@ -10,6 +10,6 @@ TODO
 * Techniques
 * Resources
 * Hatch
-
+* Attempting git push
 
 
