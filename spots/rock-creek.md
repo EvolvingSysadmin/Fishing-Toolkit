@@ -1,5 +1,12 @@
 # Rock Creek
 
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
 <https://flyfishingthesierra.com/monocreek.htm>
 
 ## Spots

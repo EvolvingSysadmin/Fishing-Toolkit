@@ -1,5 +1,14 @@
 # East Walker River
 
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
+## Spots
+
 Bottom of dam outlet where river crosses 182
 
 Use wading staff
@@ -17,3 +26,7 @@ https://www.visitmammoth.com/blogs/remarkable-east-walker-river/#:~:text=The%20M
 Also fish the elbow
 
 I also like fishing Robinson Creek a few miles southwest of Bridgeport - along Twin Lakes Road.
+
+## Flies
+
+## Resources
