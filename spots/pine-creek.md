@@ -1,5 +1,13 @@
 # Pine Creek
 
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
+
 ## Spots
 
 - **Pine Creek Area Maps**

@@ -1,5 +1,12 @@
 # June Lake
 
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
 ## Spots
 
 ### June Lake Loop

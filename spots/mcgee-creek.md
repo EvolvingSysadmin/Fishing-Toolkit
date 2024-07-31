@@ -2,6 +2,13 @@
 
 Change north lake trailhead
 
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
 ## Spots
 
 - **McGee Creek Area Maps**

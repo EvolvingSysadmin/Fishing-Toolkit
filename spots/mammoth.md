@@ -1,6 +1,13 @@
 # Mammoth
 
-## Locations
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
+## Spots
 
 - **Hot Creek**
   - Upper Hot Creek near the interpretive site, west of Hot Creek Ranch

@@ -1,6 +1,13 @@
 # Owens River
 
-## Locations
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
+## Spots
 
 ## Maps
 

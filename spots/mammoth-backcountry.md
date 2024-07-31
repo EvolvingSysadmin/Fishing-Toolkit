@@ -1,22 +1,41 @@
 # Mammoth Backcountry
 
-## Locations
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
+## Spots
 
 - **Duck Lake**
+  - Location: []()
+  - Trailhead: []()
+  - Alltrails: []()
   - 3.5 miles from Duck Pass Trailhead at 10,450'
   - <https://www.alltrails.com/explore/trail/us/california/duck-lake-trail--2?mobileMap=false&ref=sidebar-static-map>
 - **Pika Lake**
+  - Location: []()
+  - Trailhead: []()
+  - Alltrails: []()
   - Next to Duck Lake
   - <https://www.alltrails.com/explore/trail/us/california/duck-lake-trail--2?mobileMap=false&ref=sidebar-static-map>
 - **Purple Lake**
+  - Location: []()
+  - Trailhead: []()
+  - Alltrails: []()
   - 8 miles from Duck Pass Trailhead at 9,900'
   - Has Golden hybrids
   - <https://www.alltrails.com/explore/trail/us/california/purple-lake-via-duck-lake-trail>
 - **Lake Virginia**
+  - Location: []()
+  - Trailhead: []()
+  - Alltrails: []()
   - 2.5 miles past Purple Lake at 10,320'
 - <https://www.alltrails.com/explore/trail/us/california/purple-lake-via-duck-lake-trail>
 
-## FLies
+## Flies
 
 ### General Flie
 

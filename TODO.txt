@@ -9,7 +9,5 @@ TODO
     * https://www.fs.usda.gov/activity/inyo/recreation/fishing/?recid=20228&actid=43
 * Techniques
 * Resources
-* Hatch
+* Hatch/hatch calendar: https://flyfishingthesierra.com/hatchEast.htm
 * Attempting git push
-
-

@@ -1,5 +1,13 @@
 # Northern Stuff
 
+- [Spots](#spots)
+  - []()
+  - []()
+- [Flies](#flies)
+  - []()
+- [Resources](#resources)
+
+
 ## Spots
 
 ## Flies

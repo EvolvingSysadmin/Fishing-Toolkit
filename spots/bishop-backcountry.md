@@ -9,8 +9,6 @@
   - [South Lake Flies](#south-lake-flies)
 - [Resources](#resources)
 
-<https://flyfishingthesierra.com/humphreybasin.htm>
-
 ## Spots
 
 ### Sabrina Lakes
