@@ -4,8 +4,10 @@
   - [Cottonwood Lakes](#cottonwood-lakes)
   - [Cottonwood Pass](#cottonwood-pass)
   - [Mount Whitney](#mount-whitney)
-  - [Independence Creek](#independence-creek)
+  - [Other Lone Pine](#other-lone-pine)
 - [Flies](#flies)
+  - [Cottonwood Lakes/Pass Flies](#cottonwood-lakespass-flies)
+  - [Mt Whitney Flies](#mount-whitney-flies)
 - [Resources](#resources)
 
 ## Spots
@@ -66,7 +68,7 @@
 - **Long Lake**
   - Location: [Long Lake Location](https://maps.app.goo.gl/odxZASL41LsnPDjS6)
   - Trailhead: [Cottonwood Lakes Trailhead](https://maps.app.goo.gl/QLePWNJbRYqqBMSg8)
-  - AllTrails: [Long Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/
+  - AllTrails: [Long Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california)
   cottonwood-lake-and-long-lake-via-cottonwood-lakes-and-new-army-pass-trail)
   - Cottonwood Lakes Trail forks at Cottonwood Lake #1 and continues straight to as the New Army Pass trail
   - 5 miles from trailhead at 11,135'
@@ -85,152 +87,197 @@
   - Cottonwood Lakes Trail forks at Cottonwood Lake #1 and continues straight to as the New Army Pass trail
   - 7.5 miles from trailhead at 11,060'
   - Has Golden Hybrids
+- **Rock Creek**
+  - Location: [Rock Creek Location](https://maps.app.goo.gl/Xi417DkX6p32NYZP9)
+  - Trailhead: [Cottonwood Lakes Trailhead](https://maps.app.goo.gl/QLePWNJbRYqqBMSg8)  
+  - AllTrails: [Rock Creek AllTrails Map](https://www.alltrails.com/trail/us/california/cottonwood-lakes-trail)
+    - Not exact trail directions
+  - 9 miles from Cottonwood Trailhead over New Army Pass. The trail follows the creek for 3 miles. The creek goes another 4 miles to the Kern River, although the last mile is too steep to fish.
+- **Sky Blue Lakes**
+  - Location: [Sky Blue Lakes Location]( 2.5 miles from the trail over New Army Pass. The lakes are at 11,600)
+  - Trailhead: [Cottonwood Lakes Trailhead](https://maps.app.goo.gl/QLePWNJbRYqqBMSg8)  
+  - AllTrails: [Sky Blue Lakes AllTrails Map](https://www.alltrails.com/trail/us/california/cottonwood-lakes-trail)
+    - Not exact trail directions
+  - 2.5 miles from the trail over New Army Pass. The lakes are at 11,600'
+  - Has Goldens
 
 ### Cottonwood Pass
 
 - **Cottonwood Pass Maps**
   - [Cottonwood Pass Map](/img/cottonwood-lakes.gif)
 - **Golden Trout Creek**
-  - Location: [Golden Trout Creek Location]()
-  - Trailhead: [Cottonwood Pass Trailhead]()
-  - Alltrails: [Cottonwood Pass Alltrails Map]()
-  - 8 miles from trailhead at 10,500'
+  - Location: [Golden Trout Creek Location](https://maps.app.goo.gl/osZtwXBCbYbJXykw5)
+  - Trailhead: [Cottonwood Pass Trailhead](https://maps.app.goo.gl/SFeEPXugRThinS3q9)
+  - Alltrails: [Cottonwood Pass AllTrails Map](https://www.alltrails.com/explore/trail/us/california/cottonwood-pass-new-army-pass-loop/)
+    - Exact trail not on AllTrails
+  - 8 miles from trailhead
+  - Starts at the headwaters of Big Whitney Meadow and Rocky Basin Lakes
+  - Creek has about 14 miles of fishable water from just below Rocky Basin Lakes at 10,500' to above Volcano Falls next to the Kern River at 7,500'
+  - Has Golden Hybrids
 - **Rocky Basin Lakes**
-  - Location: [Rocky Basin Lakes Location]()
-  - Trailhead: [Cottonwood Pass Trailhead]()
-  - Alltrails: [Rocky Basin Lakes Alltrails Map]()
-  - 8 miles from trailhead at 10,500'
+  - Fishless
 - **Funston Lake**
-  - Location: [Funston Lake Location]()
-  - Trailhead: [Cottonwood Pass Trailhead]()
-  - Alltrails: [Funston Lake Alltrails Map]()
-  - 8 miles from trailhead at 10,500'
+  - Location: [Funston Lake Location](https://maps.app.goo.gl/2ACjou1GDySeBLSt7)
+  - Trailhead: [Cottonwood Pass Trailhead](https://maps.app.goo.gl/SFeEPXugRThinS3q9)
+  - Alltrails: [Funston Lake Alltrails Map](https://www.alltrails.com/explore/trail/us/california/cottonwood-pass-new-army-pass-loop/)
+    - Exact trail not on AllTrails  
+  - ~11,000'
+  - Has Golden Hybrids, some large
 - **Volcano Creek**
-  - Location: [Volcano Creek Location]()
-  - Trailhead: [Cottonwood Pass Trailhead]()
-  - Alltrails: [Volcano Creek Alltrails Map]()
-  - 8 miles from trailhead at 10,500'
+  - Location: [Volcano Creek Location](https://maps.app.goo.gl/MFc7upRf3vYDAmjM8)
+  - Trailhead: [Cottonwood Pass Trailhead](https://maps.app.goo.gl/SFeEPXugRThinS3q9)
+  - Alltrails: [Volcano Creek Alltrails Map](https://www.alltrails.com/explore/trail/us/california/cottonwood-pass-new-army-pass-loop/)
+    - Exact trail not on AllTrails
+  - 14.5 miles from trailhead at 9,700'
+  - Creek has two forks that extend about 5 miles from 9,700' to 8,300' feet'
+  - Has Volcano Creek Golden Trout
 - **Mulkey Creek**
-  - Location: [Mulkey Creek Location]()
-  - Trailhead: [Cottonwood Pass Trailhead]()
-  - Alltrails: [Mulkey Creek Alltrails Map]()
-  - 8 miles from trailhead at 10,500'
+  - Location: [Mulkey Creek Location](https://maps.app.goo.gl/TRQkJuzcFanarUtb7)
+  - Trailhead: [Cottonwood Pass Trailhead](https://maps.app.goo.gl/SFeEPXugRThinS3q9)
+  - Alltrails: [Mulkey Creek Alltrails Map](https://www.alltrails.com/explore/trail/us/california/cottonwood-pass-new-army-pass-loop/)
+    - Exact trail not on AllTrails  
+  - 5 miles from trailhead at 8,500'
+  - Has 8 miles of streams from Mulkey Meadows to the SF Kern
+  - Has Golden Hybrids
 - **South Fork Kern River**
-  - Location: [South Fork Kern River Location]()
-  - Trailhead: [Cottonwood Pass Trailhead]()
-  - Alltrails: [South Fork Kern River Alltrails Map]()
-  - 8 miles from trailhead at 10,500'
+  - Location: [South Fork Kern River Location](https://maps.app.goo.gl/TssuuN3w2oe1UpUr7)
+  - Trailhead: [Cottonwood Pass Trailhead](https://maps.app.goo.gl/SFeEPXugRThinS3q9)
+  - Alltrails: [South Fork Kern River Alltrails Map](https://www.alltrails.com/explore/trail/us/california/cottonwood-pass-new-army-pass-loop/)
+    - Exact trail not on AllTrails
+  - 11 miles from trailhead
+  - First fishable waters occur at the top of Ramshaw Meadows
+  - Has Golden Hybrids
 
 ### Mount Whitney
 
+- **Mt Whitney Area Maps**
+  - [Lone Pine Creek Map](/img/whitney-portal.gif)
+  - [Mt Whitney Backcountry Map](/img/mt-whitney-backcountry.gif)
 - **Lone Pine Creek**
-  - Location: [Lone Pine Creek Location]()
-  - By campground
+  - Location: [Lone Pine Creek Location](https://maps.app.goo.gl/5xGxaUTgztHY3dSh8)
   - South of Movie Flat Road
+  - Substantial bush cover and pocket water for nymphing with some larger pools where streamers will work
+  - Can also fish by campground
 - **Lone Pine Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
+  - Location: [Lone Pine Lake Location](https://maps.app.goo.gl/ab5jRHy2LQpNyonc7)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Lone Pine Lake AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail)
   - 2.5 miles up Mt Whitney Trail at 9,925'
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
 - **Mirror Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
+  - Location: [Mirror Lake Location](https://maps.app.goo.gl/LptJoaNwXEMWMvucA)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Mirror Lake AllTrails](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail)
   - 4 miles up Mt Whitney Trail at 10,660'
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
 - **Consultation Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
+  - Location: [Consultation Lake Location](https://maps.app.goo.gl/xntHJ8VtWwb725MA7)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [](https://www.alltrails.com/trail/us/california/mount-whitney-via-mount-whitney-trail)
   - 5.5 miles up Mt Whitney Trail at 11,667'
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
 - **Guitar Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - 8.5 miles from trailhead at 11,480 feet.
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
+  - Location: [Guitar Lake Location](https://maps.app.goo.gl/c1dUmNBcYhw8wsbB9)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Guitar Lake AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail)
+    - Take JMT where it splits off from Whitney Trail at Trail Crest
+  - 8.5 miles from trailhead at 11,480'
+  - Has Goldens
 - **Hitchcock Lakes**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - 9.5 miles from trailhead at 11,600 feet
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
+  - Location: [Hitchcock Lakes Location](https://maps.app.goo.gl/AeS6RJmR7vWJkRBv9)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Hitchcock Lakes AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail)
+    - Take JMT where it splits off from Whitney Trail at Trail Crest
+  - 9.5 miles from trailhead at 11,600'
+  - Has Goldens
 - **Timberline Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - 9.5 miles from trailhead at 11,100 feet.
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
+  - Location: [Timberline Lake Location](https://maps.app.goo.gl/wtnY7Fhux7uWPzZcA)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Timberline Lake AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail)
+    - Take JMT where it splits off from Whitney Trail at Trail Crest
+  - 9.5 miles from trailhead at 11,100'
+  - Has Goldens
 - **Crabtree Lakes**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - 11.5 miles from trailhead at 11,300 feet.
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
+  - Location: [Crabtree Lakes Location](https://maps.app.goo.gl/kqEpEY5nFji7swmKA)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Crabtree Lakes AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail)
+    - Take JMT where it splits off from Whitney Trail at Trail Crest
+  - 11.5 miles from trailhead at 11,300'
+  - Has Goldens
 - **Whitney Creek**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()  
+  - Location: [Whitney Creek Location](https://maps.app.goo.gl/JiCZS8mB9Rfrd6tCA)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Whitney Creek AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail)
+    - Take JMT where it splits off from Whitney Trail at Trail Crest
   - Flows down from Guitar Lake at 10.5 miles up Mt Whitney Trail
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
-- **Walace Creek**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
+  - Has Goldens
+- **Wallace Creek**
+  - Location: [Wallace Creek Location](https://maps.app.goo.gl/hQsGbFNmTBAvsL4E7)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Wallace Creek AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail)
+    - Take JMT where it splits off from Whitney Trail at Trail Crest
   - 15 miles from Whitney Portal
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-via-mount-whitney-trail>
+  - Has Goldens
 - **Upper Boy Scout Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - Off Mountaineer's Route
-  - <https://www.alltrails.com/explore/trail/us/california/mount-whitney-mountaineers-route?mobileMap=false&ref=sidebar-static-map>
+  - Location: [Upper Boy Scout Lake Location](https://maps.app.goo.gl/oCRs9F7Tyghiwgf9A)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Upper Boy Scout Lake AllTrails](https://www.alltrails.com/explore/trail/us/california/mount-whitney-mountaineers-route)
+    - Off Mountaineer's Route
 - **Grass Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - Off Meysan Trail
-  - <https://www.alltrails.com/explore/trail/us/california/meysan-trail>
+  - Location: [Grass Lake Location](https://maps.app.goo.gl/NVqaU7DR7tdw1nuCA)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Grass Lake Alltrails](https://www.alltrails.com/explore/trail/us/california/meysan-trail)
+    - Off Meysan Trail
+    - Lakes are about 5 miles from the trailhead with a 4000 foot climb
 - **Camp Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - Off Meysan Trail
-  - <https://www.alltrails.com/explore/trail/us/california/meysan-trail>
+  - Location: [Camp Lake Location](https://maps.app.goo.gl/WDdS3cw3kaGEFy4E8)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Camp Lake AllTrails](https://www.alltrails.com/explore/trail/us/california/meysan-trail)
+    - Off Meysan Trail
+    - Lakes are about 5 miles from the trailhead with a 4000 foot climb
 - **Meysan Lake**
-  - Location: []()
-  - Trailhead: []()
-  - Alltrails: []()
-  - Off Meysan Trail
-  - <https://www.alltrails.com/explore/trail/us/california/meysan-trail>
+  - Location: [Meysan Lake Location](https://maps.app.goo.gl/yTMRyRG7zdK9xhRs9)
+  - Trailhead: [Mt. Whitney Trailhead](https://maps.app.goo.gl/uSmUaG7Wm8y4XMWF7)
+  - Alltrails: [Meysan Lake AllTrails](https://www.alltrails.com/explore/trail/us/california/meysan-trail)
+    - Off Meysan Trail
+    - Lakes are about 5 miles from the trailhead with a 4000 foot climb
 
-### Independence Creek
+### Other Lone Pine
 
-### Sheperd Creek
-
-- <https://flyfishingthesierra.com/shepherd.htm>
-
-
-Tuttle Creek Campground
-Gilbert Lake
-Diaz lake
-https://www.davessierrafishing.com/destinations2/gilbert_lake.html
+- **Tuttle Creek**
+  - Location: [Tuttle Creek Location](https://maps.app.goo.gl/TFN1qnswv3KoBPeF9)
+  - Fishing is good at the campground
+- **Diaz Lake**
+  - Location: [Diaz Lake Location](https://maps.app.goo.gl/VFmwyH4uhhJHRjyn6)
+  - Lake is well stocked with rainbows and it is not unusual for a heavyweight largemouth bass to make a showing
 
 ## Flies
 
-### General Flies
+### Cottonwood Lakes/Pass Flies
+
+- **Dry Flies**
+  - [Parachute Adams](/img/parachute-adams.jpg) #16-18
+  - [Olive Caddis](/img/olive-caddis.jpg) #16-18
+  - [Stimulator](/img/stimulator.jpg) #12
+  - [Madam X](/img/madam-x.jpg) #10-12
+  - [Royal Wulff](/img/royal-wulff.jpg) #12
+- **Nymphs**
+  - [Pheasant Tail Nymph](/img/pheasant-tail.jpg) #12-14
+  - [Gold Ribbed Hare's Ear](/img/gold-ribbed-hares-ear.jpg) #14-16
+  - [Prince Nymph](/img/prince-nymph-beadhead.jpg) #14-16
+  - [Bird's Nest](/img/birds-nest.jpg) #14-18
+  - [Bird's Stonefly Nymph](/img/birds-stonefly-nymph.jpg) #8-10
+  - [Black Copper John](/img/black-copper-john.jpg) #18-22
+- **Streamers**
+  - [Muddler Minnow](/img/muddler-minnow.jpg) #8-10
+  - [Black or Olive Woolly Bugger](/img/woolly-bugger.jpg) #8-10
+
+### Mount Whitney Flies
 
 - **Nymphs:**
-
   - [Pheasant Tail Nymph](/img/pheasant-tail.jpg) #16-18
   - [Gold Ribbed Hare's Ear](/img/gold-ribbed-hares-ear.jpg) #16-18
   - [Prince Nymph](/img/prince-nymph-beadhead.jpg) #16-18
   - [Bird's Nest](/img/birds-nest.jpg) #14-18
   - [Bird's Stonefly Nymph](/img/birds-stonefly-nymph.jpg) #8-10
   - [Black Copper John](/img/black-copper-john.jpg) #18-22
-
 - **Dry Flys:**
   - [Parachute Adams](/img/parachute-adams.jpg) #16-18
   - [Elk Hair Caddis](/img/elk-hair-caddis.jpg) #16-18
@@ -240,6 +287,8 @@ https://www.davessierrafishing.com/destinations2/gilbert_lake.html
 
 ## Resources
 
-- <https://flyfishingthesierra.com/portal.htm>
-- <https://flyfishingthesierra.com/mtwhitney.htm>
-- <https://flyfishingthesierra.com/cottonwood_gtcreek.htm>
+- [Fly Fishing the Sierra Whitney Portal](https://flyfishingthesierra.com/portal.htm)
+- [Fly Fishing the Sierra Mt Whitney](https://flyfishingthesierra.com/mtwhitney.htm)
+- [Fly Fishing the Sierra Cottonwood](https://flyfishingthesierra.com/cottonwood_gtcreek.htm)
+- [Trail Pass to Golden Trout Creek Blog](https://christopherplord.blogspot.com/2018/09/trail-pass-to-golden-trout-creek.html)
+- [Lone Pine Chamber Fishing](https://lonepinechamber.org/recreation/fishing-in-the-lone-pine-area/)

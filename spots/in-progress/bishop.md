@@ -3,7 +3,8 @@
 - [Spots](#spots)
   - [Bishop Creek](#bishop-creek)
   - [Canals](#canals)
-  - [Lakes and Ponds](#lakes-and-ponds)
+  - [Lakes](#lakes)
+  - [Ponds](#ponds)
 - [Flies](#flies)
   - [Bishop Creek](#bishop-creek-flies)
   - [Bishop Canal](#bishop-canal-flies)
@@ -15,40 +16,55 @@
 ### Canals
 
 - **Bishop Canal #1**
-  - Location: []
+  - Location: []()
   - Behind the Veterinary Hospital
 - **Bishop Canal #2**
-  - Location: []
+  - Location: []()
   - Wye Road
-
 
 ### Bishop Creek
 
-- **Bishop Creek**
-  - Intakes
-    - Fly fishermen prefer to tug streamers from a float tube
-  - Lake Sabrina
-    - Fly fishing options are along the southern shore near the inlets
-    - Pools right below the dam
-  - North Lake
-  - South Lake
-  - Weir Pond
-  - Middle Fork
-  - South Fork
-
-- **SCE Plants**
+- **Sabrina Pool**
+  - Location: [Sabrina Pool Location](https://maps.app.goo.gl/EUR84NmHvLwTjEGp6)
+- **Sabrina Campground**
+  - Location: [Sabrina Campgrounds Location](https://maps.app.goo.gl/pSUqEwdcEFjxtBTb7)
 
 - **Intake 2**
+  - Location: []
+  - Fly fishermen prefer to tug streamers from a float tube
+- **Intakes**
+  - Location: []
+- **Weir Pond**
+  - Location: []
+- **Middle Fork**
+  - Location: []
+- **South Fork**
+  - Location: []
+- **SCE Plants**
+  - Location: []
 
-### Lakes and Ponds
+### Lakes
+
+- **North Lake**
+  - Location: []
+- **South Lake**
+  - Location: []
+  - Fly fishing options are along the southern shore near the inlets
+  - Pools right below the dam  
+- **Lake Sabrina**
+  - Location: []
+- **Horton Lake**
+
+### Ponds
 
 - **Buckley Ponds**
-
+  - Location: []
 - **Millpond**
-
+  - Location: []
 - **Rawson/Buckley Ponds**
-
+  - Location: []
 - **The Ponds**
+  - Location: []
 
 ## Flies
 

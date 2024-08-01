@@ -1,5 +1,7 @@
 TODO
 
+* Go through first batch nearly done
+* Go through all in progress except northern stuff/bridgeport
 * Go through each spot
   * Rename headers (spots, flies)
   * Add area maps and links to google maps
@@ -11,3 +13,4 @@ TODO
 * Resources
 * Hatch/hatch calendar: https://flyfishingthesierra.com/hatchEast.htm
 * Attempting git push
+* Sierra trout guide book & website

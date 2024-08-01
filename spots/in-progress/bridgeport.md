@@ -1,4 +1,4 @@
-# East Walker River
+# Bridgeport
 
 - [Spots](#spots)
   - []()
@@ -8,6 +8,8 @@
 - [Resources](#resources)
 
 ## Spots
+
+### East Walker River
 
 Bottom of dam outlet where river crosses 182
 
