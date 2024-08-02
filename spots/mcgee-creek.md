@@ -68,4 +68,4 @@
 
 ## Resources
 
-- [Fly Fishing the Sierra McGee Canyon]<https://flyfishingthesierra.com/mcgeecyn.htm>
+- [Fly Fishing the Sierra McGee Canyon](https://flyfishingthesierra.com/mcgeecyn.htm)

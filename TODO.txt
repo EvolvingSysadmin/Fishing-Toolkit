@@ -1,6 +1,6 @@
 TODO
 
-* Go through first batch nearly done
+* Friday: Bishop, Hot Creek, Rock Creek
 * Go through all in progress except northern stuff/bridgeport
 * Go through each spot
   * Rename headers (spots, flies)
