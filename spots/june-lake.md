@@ -213,7 +213,7 @@
   - [Hornberg](/img/hornberg.jpg)
   - [Grey Ghost](/img/grey-ghost.jpg)
   - [Mohair Leech](/img/mohair-leech.jpg) #8-10
-  - [Matuku](/img/matuku.jpg) #6-10
+  - [Matuka](/img/matuka.jpg) #6-10
 - **Nymphs:**
   - [Hare's Ear Nymph](/img/hares-ear.jpg) #14-16
   - [Pheasant Tail Nymph](/img/pheasant-tail.jpg) #14-16
@@ -280,7 +280,7 @@
 - **Stillwater Flies:**
   - [Woolly Bugger](/img/conehead-woolly-bugger.jpg) #8-10
   - [Marabou Muddler](/img/marabou-muddler.jpg) #8-10
-  - [Matuku](/img/matuku.jpg) #8-10  
+  - [Matuka](/img/matuka.jpg) #8-10  
 - **Nymphs:**
   - [Hare's Ear Nymph](/img/hares-ear.jpg) #14-16
   - [Pheasant Tail Nymph](/img/pheasant-tail.jpg) #14-16

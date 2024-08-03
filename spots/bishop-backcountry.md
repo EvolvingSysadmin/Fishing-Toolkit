@@ -412,7 +412,7 @@
   - [Woolly Bugger](/img/woolly-bugger.jpg) #8-10
   - [Krystal Buggers](/img/krystal-bugger.jpg) #8-10
   - [Clouser Minnow](/img/clouser-minnow.jpg) (Black/Silver/blue) #6-8
-  - [Matuku](/img/matuku.jpg) #6-10
+  - [Matuka](/img/matuka.jpg) #6-10
 - **Terrestrials**
   - [Thunder Thigh Hopper #12-13]
   - [Perfect Ant #12-16]
