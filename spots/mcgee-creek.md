@@ -64,7 +64,7 @@
 - **Stillwater Flies**
   - [Woolly Bugger](/img/woolly-bugger.jpg) #8-10
   - [Mohair Leech](/img/mohair-leech.jpg) #8-10
-  - [Matuku](/img/matuku.jpg) #8-10
+  - [Matuka](/img/matuka.jpg) #8-10
 
 ## Resources
 
