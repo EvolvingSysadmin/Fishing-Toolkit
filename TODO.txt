@@ -14,3 +14,4 @@ TODO
 * Hatch/hatch calendar: https://flyfishingthesierra.com/hatchEast.htm
 * Attempting git push
 * Sierra trout guide book & website
+* Redo treasure lakes

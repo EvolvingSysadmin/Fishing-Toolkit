@@ -1,0 +1,308 @@
+# Rock Creek
+
+- [Spots](#spots)
+  - [Rock Creek](#rock-creek-area)
+  - [Mono Creek](#mono-creek)
+- [Flies](#flies)
+  - [Rock Creek Flies](#rock-creek-flies)
+  - [Mono Creek Flies](#mono-creek-flies)
+- [Resources](#resources)
+
+## Spots
+
+### Rock Creek Area
+
+- **Rock Creek Area Maps**
+  - [Rock Creek Lake Map](/img/rock-creek-lake.gif)
+  - [Little Lakes Valley Map](/img/little-lakes-valley.gif)
+- **Rock Creek Lake**
+  - Location: [Rock Creek Lake Location](https://maps.app.goo.gl/yYnLh44ecCv9VFid7)
+  - 9,682' elevation
+  - Can be fished with waders near the boat launch or near the inlet side of the lake near the creek
+- **Eastern Brook Lakes**
+  - Location: [Eastern Brook Lakes Location](https://maps.app.goo.gl/yJtefL6XpyrB4Tpz6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+    - Take left fork towards the east almost immediately at trailhead
+  - Fishless
+- **Mack Lake**
+  - Location: [Mack Lake Location](https://maps.app.goo.gl/bQrEBLmziiVtPKn68)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Mack Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - .5 mile from trailhead at 10,300'
+- **Marsh Lake**
+  - Location: [Marsh Lake Location](https://maps.app.goo.gl/d539xPwYX4Fu3KmN8)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Marsh Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - 1 mile from trailhead at 10,480'
+- **Heart Lake**
+  - Location: [Heart Lake](https://maps.app.goo.gl/CfcuC39AJWSbz8GV9)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Heart Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - 1 mile from trailhead at 10,500'
+- **Box Lake**
+  - Location: [Box Lake Location](https://maps.app.goo.gl/JBBmLBGQFtKKN77J6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Box Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - 1 mile from trailhead at 10,600'
+- **Hidden Lakes**
+  - Location: [Hidden Lakes Location](https://maps.app.goo.gl/3djsvvBn6E5hArsB6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Hidden Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - 1 mile from trailhead at 10,750'
+  - Only Hidden Lake #3 has fish, must walk cross country to the east from trail
+- **Lost Lake**
+  - Location: [Lost Lake Location](https://maps.app.goo.gl/kViYJzGdbQHY4ai7A)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Lost Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - Just east of Box Lake, must walk cross country
+- **Long Lake**
+  - Location: [Long Lake Location](https://maps.app.goo.gl/w1zdWc8EhCzeJ1zn6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Long Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - 2 miles from trailhead at 10,550'
+- **Little Fish Lake**
+  - Location: [Little Fish Lake Location](https://maps.app.goo.gl/p5yNVGraa7ZsEukp6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Little Fish Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - West of Long Lake
+  - Fish the inlet stream
+- **Big Fish Lake**
+  - Location: [Big Fish Lake Location](https://maps.app.goo.gl/gqHkbRK2eH9DZjqt7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Big Fish Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/long-lake-via-little-lakes-valley-trail--2)
+  - West of Long Lake
+  - Fish the inlet stream
+- **Chickenfoot Lake**
+  - Location: [Chickenfoot Lake Location](https://maps.app.goo.gl/HDojTGDzfAhVx53z9)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Chickenfoot Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/little-lakes-valley-to-gem-lakes)
+  - Take the fork to the east
+  - 2.75 miles at 10,750'
+- **Upper Morgan Lake**
+  - Location: [Upper Morgan Lake Location](https://maps.app.goo.gl/LxzMR9U2mcskn6RKA)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Upper Morgan Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/mosquito-flat-to-morgan-lakes)
+  - Over Morgan Pass
+- **Middle Morgan Lake**
+  - Location: [Middle Morgan Lake Location](https://maps.app.goo.gl/yov1HinsoeDFZYgZA)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Middle Morgan Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/mosquito-flat-to-morgan-lakes)
+  - Over Morgan Pass
+- **Lower Morgan Lake**
+  - Location: [Lower Morgan Lake Location](https://maps.app.goo.gl/YFY4reBMpoMev8rg8)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Lower Morgan Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/mosquito-flat-to-morgan-lakes)
+  - Over Morgan Pass
+- **Gem Lakes**
+  - Location: [Gem Lakes Location](https://maps.app.goo.gl/4UpX4JYWgqVgLmLh8)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Gem Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/little-lakes-valley-to-gem-lakes)
+  - 3.75 miles from trailhead at 11,000'
+  - 3 lakes
+- **Treasure Lakes**
+  - Location: [Treasure Lakes Location](https://maps.app.goo.gl/42hAfz3WPJXoMKTD7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Treasure Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/mosquito-flat-to-morgan-lakes)
+  - Go to the west at Gem Lakes
+  - 4 lakes at 11,200'
+  - Goldens in the northern two lakes (#3 & #4)
+- **Ruby Lake**
+  - Location: [Ruby Lake Location](https://maps.app.goo.gl/PBU3RdrmdTfd5Jcb8)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Ruby Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/ruby-lake)
+  - 1.5 miles from the trailhead at 11,150'
+- **Mills Lake**
+  - Location: [Mills Lake Location](https://maps.app.goo.gl/pwrPx4GPhKy4QRk38)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Mills Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/ruby-lake)
+    - Not exact map
+  - 2.25 miles from trailhead at 11,600'
+  - Must travel cross country
+  - Has Goldens
+- **Summit Lake**
+  - Location: [Summit Lake Location](https://maps.app.goo.gl/ZRvewab7f1Q8AGww6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Summit Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+  - Fishless
+- **Trail Lake**
+  - Location: [Trail Lake Location](https://maps.app.goo.gl/8ami4w39omY1Fzjm7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Trail Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+  - 1.75 miles over Mono Pass at 11,200'
+- **Neelle Lake**
+  - Location: [Neelle Lake Location](https://maps.app.goo.gl/LujRhkLnEDviSnr19)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Neelle Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+  - 2 miles over Mono Pass at 11,385'
+  - Has Goldens
+- **Golden Lake**
+  - Location: [Golden Lake Location](https://maps.app.goo.gl/vXeVSRbniKKAobk88)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Golden Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exaxt map, trail forks to the east after Upper Trail Lake
+  - Has Goldens
+
+### Mono Creek
+
+- **Fourth Recess Lake**
+  - Location: [Fourth Recess Lake Location](https://maps.app.goo.gl/ojrTo5vHRAUedDhq7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Fourth Recess Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+  - 3.4 miles from Mono Pass at 10,125'
+- **Snow Lakes**
+  - Location: [Snow Lakes Location](https://maps.app.goo.gl/bNSpdpmGboxYEad39)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Snow Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exact map, accessed to the south of Fourth Recess Lake
+  - At 11,396'
+  - Has Goldens
+- **Pioneer Basin Lake #1 (Mud Lake)**
+  - Location: [Pioneer Basin Lake #1 (Mud Lake) Location](https://maps.app.goo.gl/BY98GNbZJPyWSKp5A)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #1 (Mud Lake) AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 1 mile from the confluence of Mono Creek and Golden Creek at 10,390'
+  - Has Goldens
+- **Pioneer Basin Lake #2:**
+  - Location: [Pioneer Basin Lake #2: Location](https://maps.app.goo.gl/4sBTjPDReKZu5u8m8)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #2: AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 1.6 miles from the confluence of Mono Creek and Golden Creek at 10,823'
+- **Pioneer Basin Lake #2A**
+  - Location: [Pioneer Basin Lake #2A Location](https://maps.app.goo.gl/Txun3zHexp6VpwwPA)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #2A AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 2 miles from the confluence of Mono Creek and Golden Creek at 10,850'
+- **Pioneer Basin Lake #3**
+  - Location: [Pioneer Basin Lake #3 Location](https://maps.app.goo.gl/TxU9mrD5bL3k9Q548)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #3 AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 2.2 miles from the confluence of Mono Creek and Golden Creek at 10,862'
+  - Has Goldens
+- **Pioneer Basin Lake #4**
+  - Location: [Pioneer Basin Lake #4 Location](https://maps.app.goo.gl/yGRPizur6ert3nRk6)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #4 AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 3.2 miles from the confluence of Mono Creek and Golden Creek at 10.922'
+- **Pioneer Basin Lake #5**
+  - Location: [Pioneer Basin Lake #5 Location](https://maps.app.goo.gl/3qFJh2AGiGbwBXqz9)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #5 AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 4 miles from the confluence of Mono Creek and Golden Creek at 11,050'
+  - Has Goldens
+- **Pioneer Basin Lake #6**
+  - Location: [Pioneer Basin Lake #6 Location](https://maps.app.goo.gl/Mr6tArVCszcra1u98)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Pioneer Basin Lake #6 AllTrails Map](https://www.alltrails.com/explore/trail/us/california/pioneer-basin-lakes-trail)
+  - 4 miles from the confluence of Mono Creek and Golden Creek at 11,160'
+  - Has Goldens
+- **Third Recess Lake**
+  - Location: [Third Recess Lake Location](https://maps.app.goo.gl/TDvRi75XzRSPPC9L9)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Third Recess Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exact map, take trail split south of Fourth Recess Lake
+  - 1.5 miles from the confluence of Mono Creek and Golden Creek at 10,631'
+- **Lower Hopkins Lakes**
+  - Location: [Lower Hopkins Lakes Location](https://maps.app.goo.gl/pzunYEYUaUr7tZW87)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Lower Hopkins Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+  - At 10,400'
+- **Upper Hopkins Lakes**
+  - Location: [Upper Hopkins Lakes Location](https://maps.app.goo.gl/cGv84ywcGYfPTSKX7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Upper Hopkins Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+  - At 11,000'
+  - Requires cross country travel
+  - Has Goldens
+- **Laurel Lake**
+  - Location: [Laurel Lake Location](https://maps.app.goo.gl/A3AFcwsxbFGaEeq77)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Laurel Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exact map, continues up Hopkins Pass Trail
+  - 2.8 miles from the confluence of Mono Creek and Golden Creek at 10,319'
+- **Grinnell Lake**
+  - Location: [Grinnell Lake Location](https://maps.app.goo.gl/bi3Fn7bnim1Eyuq76)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Grinnell Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exact map, continues up Hopkins Pass Trail
+  - .5 mile east of Laurel Lake at 10,804'
+- **Lower Mills Creek Lake**
+  - Location: [Lower Mills Creek Lake Location](https://maps.app.goo.gl/n3QtEaY6s1bS5Gvo8)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Lower Mills Creek Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/ruby-lake)
+    - Not exact map
+  - 3.6 miles from Mono Creek at 10,851'
+  - Has Goldens
+- **Upper Mills Creek Lake**
+  - Location: [Upper Mills Creek Lake Location](https://maps.app.goo.gl/rbR7iMbTbyfuv3BP7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Upper Mills Creek Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/ruby-lake)
+    - Not exact map
+  - 4.5 miles from Mono Creek at 11,167'
+  - Has Goldens
+- **Silver Pass Lake**
+  - Location: [Silver Pass Lake Location](https://maps.app.goo.gl/dwH1bvKHW2SexX7aA)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Silver Pass Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exact map, Second Recess follows Mills Creek up to Lower and Upper Mills Creek Lakes
+  - Has Goldens
+- **Silver Pass Creek**
+  - Location: [Silver Pass Creek Location](https://maps.app.goo.gl/snVk1BcaxME1oSxK7)
+  - Trailhead: [Mosquito Flat Trailhead](https://maps.app.goo.gl/VfFGbmMv1Q23FEDh8)
+  - AllTrails Map: [Silver Pass Creek AllTrails Map](https://www.alltrails.com/explore/trail/us/california/recess-lake-hopkins-lake-and-pioneer-basin-lake)
+    - Not exact map, Second Recess follows Mills Creek up to Lower and Upper Mills Creek Lakes  
+  - Has Goldens
+
+## Flies
+
+### Rock Creek Flies
+
+- **Stillwater Flies**
+  - [Woolly Bugger](/img/woolly-bugger.jpg) #8-10
+  - [Krystal Buggers](/img/krystal-bugger.jpg) #8-10
+  - [Mohair Leech](/img/mohair-leech.jpg) #8-10
+  - [Marabou Muddler](/img/marabou-muddler.jpg) #8-10
+  - [Matuka](/img/matuka.jpg) #8-10
+  - [Hornberg](/img/hornberg.jpg) #8-10
+- **Dry Flies**
+  - [Parachute Adams](/img/parachute-adams.jpg) #16-18
+  - [Olive Caddis](/img/olive-caddis.jpg) #16-18
+  - [Royal Wulff](/img/royal-wulff.jpg) #16-18
+  - [Yellow Humpy](/img/yellow-humpy.jpg) #14
+  - [Griffith's Gnat](/img/griffiths-gnat.jpg) #16-18
+  - [Black Gnat](/img/black-gnat.jpg)
+  - [Henrys Fork Hopper](/img/henrys-fork-hopper.jpg)
+  - [Chernobyl Ant](/img/chernobyl-ant.jpg)
+  - [Mosquito](/img/mosquito.jpg)
+  - [Bivisible](/img/bivisible.jpg)
+- **Nymph Flies**
+  - [Hare's Ear](/img/hares-ear.jpg) #16-18
+  - [Prince Nymph](/img/prince-nymph-beadhead.jpg) #16-18
+- **Wet Flies**
+  - [Leadwing Coachman](/img/leadwing.-coachman.jpg)
+  - [Black Gnat](/img/black-gnat.jpg)
+  - [Grey Hackle Peacock](/img/gray-hackle-peacock.jpg)
+  - [Grey Hackle Yellow](/img/grey-hackle-yellow.jpg)
+
+### Mono Creek Flies
+
+- **Dry Flies**
+  - [Parachute Adams](/img/parachute-adams.jpg) #16-18
+  - [Olive Caddis](/img/olive-caddis.jpg) #16-18
+  - [Royal Wulff](/img/royal-wulff.jpg) #16-18
+  - [Yellow Humpy](/img/yellow-humpy.jpg) #14
+  - [Griffith's Gnat](/img/griffiths-gnat.jpg) #16-18
+  - [Black Gnat](/img/black-gnat.jpg) #18
+  - [Henrys Fork Hopper](/img/henrys-fork-hopper.jpg) #14
+  - [Chernobyl Ant](/img/chernobyl-ant.jpg) #16
+  - [Mosquito](/img/mosquito.jpg) #18
+- **Nymph Flies**
+  - [Pheasant Tail Nymph](/img/pheasant-tail-nymph.jpg) #16-18
+  - [Prince Nymph](/img/prince-nymph-beadhead.jpg) #16-18
+  - [Copper John](/img/black-copper-john.jpg) #16-18
+
+## Resources
+
+- [Dave's Sierra Fishing Chickenfoot Lake](https://www.davessierrafishing.com/destinations2/chickenfoot_lake.html)
+- [Fly Fishing the Sierra Rock Creek Lake](https://flyfishingthesierra.com/rcreek.htm)
+- [Fly Fishing the Sierra Rock Creek](https://flyfishingthesierra.com/rcreekbc.htm)
+- [Fly Fishing the Sierra Mono Creek](https://flyfishingthesierra.com/monocreek.htm)
