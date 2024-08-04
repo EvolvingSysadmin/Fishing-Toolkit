@@ -163,7 +163,7 @@
   - Go along the northern shore of Lower Lamarck Lake and follow the creek up to Wonder Lakes. The first lake will be about 2.0 miles from the trailhead
   - About a dozen lakes over a two mile stretch starting at 10,800 feet and going up to 11,600 feet
 - **Loch Leven Lake**
-  - Location: [Loch Leven Lake Location](https://maps.app.goo.gl/sy2jFNi2GhiRtsqr7)
+  - Location: [Loch Leven Lake Location](https://maps.app.goo.gl/1JnRK3YmhTw9zjsu5)
   - Trailhead: [North Lake Trailhead](https://maps.app.goo.gl/R4qf3YpJUNsQPTWr7)
   - AllTrails: [Loch Leven Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/piute-pass-trail)
   - 2 miles from the trailhead at 10,700 feet
