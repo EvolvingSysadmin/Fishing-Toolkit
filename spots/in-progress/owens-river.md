@@ -14,3 +14,5 @@
 ## Flies
 
 ## Resources
+
+- [Mammoth Fisheries](/resources/Mammoth-Fisheries-Summer-Trifecta.pdf)

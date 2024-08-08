@@ -9,12 +9,6 @@
 
 ## Spots
 
-- **Hot Creek**
-  - Upper Hot Creek near the interpretive site, west of Hot Creek Ranch
-  - Target different areas of rivers by working the entire body of water
-  - Hot creek canyon is below the ranch and above the interpretive center
-  - Pick up rocks to see what's underneath for fly selection
-  - Upper canyon = above the first parking lot
 - **Upper Owens**
   - Fish where Owens River Road crosses the Owens River
   - Use western rods on upper Owens
