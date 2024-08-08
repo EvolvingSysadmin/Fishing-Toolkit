@@ -95,7 +95,9 @@
 
 - [Fly Fishing the Sierra Hot Creek](https://flyfishingthesierra.com/hotcreek.htm)
 - [Mammoth Fisheries](/resources/Mammoth-Fisheries-Summer-Trifecta.pdf)
+- [USGS Flow Reports](https://waterdata.usgs.gov/monitoring-location/10265150/#parameterCode=00065&period=P7D&showMedian=false)
 - [LADWP Flow Reports](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct/la-aqueduct-conditions-reports)
   - Hot Creek can be fished with heavily weighted nymph patterns as high as 200 cfs
   - Ideal flow is 30 to 40 cfs
+- [Hot Creek Fishing Report](https://www.californiaflyfishingreports.com/hot-creek)
   
