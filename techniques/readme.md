@@ -1,6 +1,7 @@
 # Techniques
 
-- [General Techniques](#general-techniques)
+- [Casting](#casting)
+- [Fly Selection](#fly-selection)
 - [Rigging](#rigging)
   - [General Rigging](#general-rigging)
   - [Dry Hopper Rigging](#dry-dropper-rigging)
@@ -11,15 +12,20 @@
   - [Tenkara](#tenkara)
   - [Wet Wading](#wet-wading)
 
-## General Techniques
-
-### Casting
+## Casting
 
 - Don't use too much wrist or break wrist while casting. The rod tip should go in a straight motion, it shouldn't angle down towards the water
-
-### Other Tips
-
 - Always keep line under right hand when stripping
+
+## Fly Selection
+
+- Pick up rocks to see what's underneath for fly selection
+- Ducks typically mean hoppers
+- Any trout in the world will eat a size 18 Pheasant Tail out of a river
+
+## Targeting
+
+- Target different areas of rivers by working the entire body of water
 
 ## Rigging
 
