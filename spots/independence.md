@@ -96,8 +96,18 @@
 - **George Creek Area Maps**
   - [George Creek Area Map](/img/george-creek.gif)
 - **George Creek (Sand Trap)**
+  - Location: [George Creek Sand Trap Location](https://maps.app.goo.gl/NAFDRvU6Nd1A9afJ8)
+  - Located about 100 yards upstream of the aqueduct
+  - Great for fishing in March/April
 - **George Creek**
+  - Location: [George Creek Location](https://maps.app.goo.gl/qaNaQKWQRFiprFPf6)
+  - Above the sand trap up to the intersection of Foothill Road, George Creek is similar to Goodall and Taboose as a small stream with a lot of riparian cover
 - **Williamson Lakes**
+  - Location: [Williamson Lakes Location](https://maps.app.goo.gl/g6DHE8geXvCGrNms7)
+  - Trailhead: [George Creek/Mt. Williamson Trailhead](https://maps.app.goo.gl/ZiSrqu8N32rKY3ew7)
+  - AllTrails: not on AllTrails
+  - The lower three lakes within the Williamson Bowl contain Colorado Cutthroats
+  - George Creek trail is a steep, unmaintained cross-country route that climbs more than 6,000 vertical feet into the area near Mt. Williamson, Trojan Peak, and Mt. Barnard
 
 ## Flies
 
