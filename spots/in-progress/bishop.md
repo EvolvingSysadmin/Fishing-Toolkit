@@ -16,11 +16,13 @@
 ### Canals
 
 - **Bishop Canal #1**
-  - Location: []()
+  - Location: [Bishop Canal #1 Location](https://maps.app.goo.gl/rmG65Nztr4BsB8cNA)
   - Behind the Veterinary Hospital
 - **Bishop Canal #2**
-  - Location: []()
+  - Location: [Bishop Canal #2 Location](https://maps.app.goo.gl/FRxnvuEHBweRTncW7)
   - Wye Road
+- **Bishop Creek Canal**
+- **Dixon Lane Canal**
 
 ### Bishop Creek
 
