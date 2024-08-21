@@ -1,6 +1,5 @@
 TODO
 
-* Friday: Bishop, Hot Creek, Rock Creek
 * Go through all in progress except northern stuff/bridgeport
 * Go through each spot
   * Rename headers (spots, flies)
@@ -12,6 +11,4 @@ TODO
 * Techniques
 * Resources
 * Hatch/hatch calendar: https://flyfishingthesierra.com/hatchEast.htm
-* Attempting git push
 * Sierra trout guide book & website
-* Redo treasure lakes
