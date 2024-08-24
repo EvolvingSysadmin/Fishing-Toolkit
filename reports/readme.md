@@ -22,7 +22,9 @@
 - <https://www.flyfishingreports.com/fish_reports/210609/hat-creek-fishing-report.php>
 - <https://www.monocounty.org/things-to-do/fishing/fishing-reports/>
 - <https://www.californiaflyfishingreports.com/hot-creek>
+- <https://www.californiaflyfishingreports.com/upper-owens-river>
 
 ## Other
 
 - Truckee River: <https://www.flyfishingreports.com/fish_reports/210037/the-truckee-has-seen-a-steady-increase-in-flows-again-this-week.php>
+- <https://nrm.dfg.ca.gov/FishPlants/>

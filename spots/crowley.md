@@ -101,30 +101,30 @@
 ## Flies
 
 - **Streamers**
-- [Perfection Perch](/img/perfection-perch.jpg) #8-12
-- [Punk Perch](/img/punk-perch.jpg) #8-16
-- [Woolly Bugger](/img/woolly-bugger.jpg) #8-10
-- [Cole Bugger](/img/cole-bugger.jpg) #8-10
-- [Denny's Seal Bugger](/img/dannys-seal-bugger.jpg) #8-10
-- [Cinnamon Twin Lake Special](/img/cinnamon-twin-lake-special.jpg) #8-10
-- [Brown Mohair Leech](/img/brown-mohair-leech.jpg) #8-10
-- [Marabou Muddler](/img/marabou-muddler.jpg) #6-10
-- [Olive Matuka](/img/matuka.jpg) #6-10
-- [Hornberg](/img/hornberg.jpg) #8-14
-- [Loeberg](/img/loeberg.jpg) #12-14
-- [Grey Ghost](/img/grey-ghost.jpg) #10-12
+  - [Perfection Perch](/img/perfection-perch.jpg) #8-12
+  - [Punk Perch](/img/punk-perch.jpg) #8-16
+  - [Woolly Bugger](/img/woolly-bugger.jpg) #8-10
+  - [Cole Bugger](/img/cole-bugger.jpg) #8-10
+  - [Denny's Seal Bugger](/img/dannys-seal-bugger.jpg) #8-10
+  - [Cinnamon Twin Lake Special](/img/cinnamon-twin-lake-special.jpg) #8-10
+  - [Brown Mohair Leech](/img/brown-mohair-leech.jpg) #8-10
+  - [Marabou Muddler](/img/marabou-muddler.jpg) #6-10
+  - [Olive Matuka](/img/matuka.jpg) #6-10
+  - [Hornberg](/img/hornberg.jpg) #8-14
+  - [Loeberg](/img/loeberg.jpg) #12-14
+  - [Grey Ghost](/img/grey-ghost.jpg) #10-12
 - **Midges**
-- [Optimidge](/img/optimidge.jpg) #14-22
-- [Zebra Midge](/img/zebra-midge.jpg) #14-22
-- [Drifter's Crystal Midge](/img/drifters-crystal-midge.jpg) #14-22
-- [Disco Midge](/img/disco-midge.jpg) #14-22
-- [Drifter's Gilly](/img/drifters-gilly.jpg) #14-18
+  - [Optimidge](/img/optimidge.jpg) #14-22
+  - [Zebra Midge](/img/zebra-midge.jpg) #14-22
+  - [Drifter's Crystal Midge](/img/drifters-crystal-midge.jpg) #14-22
+  - [Disco Midge](/img/disco-midge.jpg) #14-22
+  - [Drifter's Gilly](/img/drifters-gilly.jpg) #14-18
 - **Nymphs**
-- [Barr's Damsel](/img/barrs-damsel.jpg) #8-10
-- [Flashback Pheasant Tail](/img/flashback-pheasant-tail.jpg) #14-18
-- [Prince Nymph](/img/prince-nymph-beadhead.jpg) #10-14
-- [Bird Nest](/img/birds-nest.jpg) #10-14
-- [Burk's Damsel Nymph](/img/burks-damsel-nymph.jpg) #10-14
+  - [Barr's Damsel](/img/barrs-damsel.jpg) #8-10
+  - [Flashback Pheasant Tail](/img/flashback-pheasant-tail.jpg) #14-18
+  - [Prince Nymph](/img/prince-nymph-beadhead.jpg) #10-14
+  - [Bird Nest](/img/birds-nest.jpg) #10-14
+  - [Burk's Damsel Nymph](/img/burks-damsel-nymph.jpg) #10-14
 
 ## Resources
 

@@ -10,10 +10,14 @@
   - Extendable: 7.8', 9.5', 11'
   - Link: <https://dragontailtenkara.com/products/mizuchi-zx340-zoom-tenkara-rod>
 
-## Fly Fishing Combos
+## Fly Fishing
 
 - Martin
   - 8', 5/6 weight
+- Echo Carbon XL
+  - Model: 490-4
+  - 9', 4 weight
+  - Link: <https://echoflyfishing.com/project/echocarbonxl/>
 - Echo Traverse
   - Model: TRAV-490
   - 9', 4 weight
