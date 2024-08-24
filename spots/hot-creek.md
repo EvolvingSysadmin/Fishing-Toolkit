@@ -18,6 +18,7 @@
     - Good dry fly fishing during a hatch but wet flies can be more effective depending on the insect life
     - Fish are very weary of presentation throughout Hot Creek
     - The best time of the year to fish Hot Creek is the early summer when there is plenty of runoff and the hatches are active
+    + Hoppers are effective during the summer
 - **Hot Creek Ranch**
   - Location: [Hot Creek Ranch Location](https://maps.app.goo.gl/PZPjBc9EtZ4gcRv47)
   - [Hot Creek Ranch Website](https://www.hotcreekranch.com/)
@@ -60,6 +61,10 @@
   - Tackle:
     - Use a 7.5 ft, 5X leader, and 6X tippet
     - Drift a beadhead nymph through deeper sections or between weeds
+  - Dry flies at interpretive center: mayflies, gnats, tricos, midges
+  - Ducks typically mean hoppers
+  - Any trout in the world will eat a size 18 Pheasant Tail out of a river
+
 - **Notable Fly Patterns from Hot Creek**
   - [Brooks Sprout](/img/brooks-sprout.jpg) patterns by Bob Brooks
   - [Hot Creek Caddis](/img/hot-creek-caddis.jpg) by Eric Otzinger
