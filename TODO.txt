@@ -1,14 +1,16 @@
 TODO
 
-* Go through all in progress except northern stuff/bridgeport
-* Go through each spot
-  * Rename headers (spots, flies)
-  * Add area maps and links to google maps
-  * Process Daves fishing
-  * Go through inyo national forest and add links/info
+* Finish scope of current spots
+* Go through all in progress location content
+* Review content and polish off other pages
+* Add more Techniques
+* Hatch map
+* Add more content over time
+  * Review Daves flyfishing
+  * Sierra trout guide book & website
+  * Review National Forest info, eg:
     * https://www.fs.usda.gov/activity/inyo/recreation/fishing/?recid=20228&actid=42
     * https://www.fs.usda.gov/activity/inyo/recreation/fishing/?recid=20228&actid=43
-* Techniques
-* Resources
-* Hatch/hatch calendar: https://flyfishingthesierra.com/hatchEast.htm
-* Sierra trout guide book & website
+  * Books
+* Purchase books recommended by Chris
+* Ensure Goldens are in documentation and perhaps add another layer with Goldens
