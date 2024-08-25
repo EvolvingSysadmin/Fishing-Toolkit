@@ -3,7 +3,6 @@
 - [Spots](#spots)
   - [Virginia Lakes](#virginia-lakes)
   - [Twin Lakes](#twin-lakes)
-  - [Buckeye Creek](#buckeye-creek)
   - [East Walker River](#east-walker-river)
 - [Flies](#flies)
   - [Virginia Lakes Flies](#virginia-lakes-flies)
@@ -17,101 +16,140 @@
 - **Virginia Lakes Map**
   - [Virginia Lakes Area Map](/img/virginia-lakes.gif)
 - **Trumbull Lake**
-  - Location: [Trumbull Lake Location]()
+  - Location: [Trumbull Lake Location](https://maps.app.goo.gl/fRtZkqDLRyxx7zV2A)
   - Trailhead: []()
   - AllTrails: [Trumbull Lake AllTrails Map]()
   - 9,700'
 - **Big Virginia Lake**
-  - Location: [Big Virginia Lake Location]()
+  - Location: [Big Virginia Lake Location](https://maps.app.goo.gl/RuRXuzsnnFF4Hr467)
   - Trailhead: []()
   - AllTrails: [Big Virginia Lake AllTrails Map]()
   - 9,800'
 
 - **Little Virginia Lake**
-  - Location: [Little Virginia Lake Location]()
+  - Location: [Little Virginia Lake Location](https://maps.app.goo.gl/2Si3RWAC8t2a8XGJ6)
   - Trailhead: []()
   - AllTrails: [Little Virginia Lake AllTrails Map]()
   - 9,800'
 
 - **Red Lake**
-  - Location: [Red Lake Location]()
+  - Location: [Red Lake Location](https://maps.app.goo.gl/1YiWA7bbFrRRxiDf8)
   - Trailhead: []()
   - AllTrails: [Red Lake AllTrails Map]()
   - 9,400'
 
 - **Blue Lake**
-  - Location: [Blue Lake Location]()
+  - Location: [Blue Lake Location](https://maps.app.goo.gl/2azeqa1cHmwfMsik8)
   - Trailhead: []()
   - AllTrails: [Blue Lake AllTrails Map]()
   - 9,886'
 
 - **Moat Lake**
-  - Location: [Moat Lake Location]()
+  - Location: [Moat Lake Location](https://maps.app.goo.gl/ZGJidE2TSC3TNbtm6)
   - Trailhead: []()
   - AllTrails: [Moat Lake AllTrails Map]()
   - 10,575'
 
 - **Cooney Lake**
-  - Location: [Cooney Lake Location]()
+  - Location: [Cooney Lake Location](https://maps.app.goo.gl/JkotvbUx6dNu7m5b8)
   - Trailhead: []()
   - AllTrails: [Cooney Lake AllTrails Map]()
   - 10,100'
 
 - **Frog Lakes**
-  - Location: [Frog Lakes Location]()
+  - Location: [Frog Lakes Location](https://maps.app.goo.gl/BCthT8Co7JfgQxeL7)
   - Trailhead: []()
   - AllTrails: [Frog Lakes AllTrails Map]()
   - 10,100'
 
 - **Summit Lake**
-  - Location: [Summit Lake Location]()
+  - Location: [Summit Lake Location](https://maps.app.goo.gl/UMm9DZRg5CU2Hqj97)
   - Trailhead: []()
   - AllTrails: [Summit Lake AllTrails Map]()
   - 10,240'
 
 - **Green Lake**
-  - Location: [Green Lake Location]()
+  - Location: [Green Lake Location](https://maps.app.goo.gl/bM1Avc9AsYpvsrv1A)
   - Trailhead: []()
   - AllTrails: [Green Lake AllTrails Map]()
   - 9,000'
 
 - **East Lake**
-  - Location: [East Lake Location]()
+  - Location: [East Lake Location](https://maps.app.goo.gl/Ry5f4taQw5qpXTVW7)
   - Trailhead: []()
   - AllTrails: [East Lake AllTrails Map]()
   - 9,600'
 
 - **Gilman Lake**
-  - Location: [Gilman Lake Location]()
+  - Location: [Gilman Lake Location](https://maps.app.goo.gl/JcccFFWCfSNpdusx6)
   - Trailhead: []()
   - AllTrails: [Gilman Lake AllTrails Map]()
   - 9,500'
 
 - **Hoover Lakes**
-  - Location: [Hoover Lakes Location]()
+  - Location: [Hoover Lakes Location](https://maps.app.goo.gl/6aWKEgo16PwoFkDE6)
   - Trailhead: []()
   - AllTrails: [Hoover Lakes AllTrails Map]()
   - 9,800'
 
 - **Lundy Lake**
-  - Location: [Lundy Lake Location]()
+  - Location: [Lundy Lake Location](https://maps.app.goo.gl/GMFDXwkf6eRpqTo78)
   - Trailhead: []()
   - AllTrails: [Lundy Lake AllTrails Map]()
   - 7,800'
 
 - **Oneida Lake**
-  - Location: [Oneida Lake Location]()
+  - Location: [Oneida Lake Location](https://maps.app.goo.gl/N2YaDe4U3YFpvRjQA)
   - Trailhead: []()
   - AllTrails: [Oneida Lake AllTrails Map]()
   - 9,656'
 
 ### Twin Lakes
 
-
-
-### Buckeye Creek
+- **Twin Lakes Area Maps**
+- **Barney Lake**
+  - Location: [Barney Lake Location](https://maps.app.goo.gl/k4AacU7rRSPo3sax7)
+  - Trailhead: []()
+  - AllTrails: [Barney Lake AllTrails Map]()
+- **Robinson Creek**
+  - Location: [Robinson Creek Location]()
+  - Trailhead: []()
+  - AllTrails: [Robinson Creek AllTrails Map]()
+- **Buckeye Creek**
+  - Location: [Buckeye Creek Location]()
+  - Trailhead: []()
+  - AllTrails: [Buckeye Creek AllTrails Map]()
+- **Maltby Lake**
+  - Location: [Maltby Lake Location](https://maps.app.goo.gl/q7FwV5qhk9PPngKA6)
+  - Trailhead: []()
+  - AllTrails: [Maltby Lake AllTrails Map]()
+- **Ice Lake**
+  - Location: [Ice Lake Location](https://maps.app.goo.gl/79YDkRnTVVGtxQ5J6)
+  - Trailhead: []()
+  - AllTrails: [Ice Lake AllTrails Maps]()
+- **Glacier Lake**
+  - Location: [Glacier Lake Location](https://maps.app.goo.gl/esef9pnFrxTAu59w9)
+  - Trailhead: []()
+  - AllTrails: [Glacier Lake AllTrails Map]()
+- **Avalanche Lake**
+  - Fishless
+- **Turquoise Lake**
+  - Fishless
+- **Lake Francis**
+  - Fishless
+- **Tamarack Lake**
+  - Location: [Tamarack Lake Location](https://maps.app.goo.gl/qY99PaQvzqacybG98)
+  - Trailhead: []()
+  - AllTrails: [Tamarack Lake AllTrails]()
+- **Hunewill Lake**
+  - Location: [Hunewill Lake Location](https://maps.app.goo.gl/o3HwMaoHgABXPSYY6)
+  - Trailhead: []()
+  - AllTrails: [Hunewill Lake AllTrails]()
 
 ### East Walker River
+
+- **East Walker River Area Maps**
+
 
 Bottom of dam outlet where river crosses 182
 
