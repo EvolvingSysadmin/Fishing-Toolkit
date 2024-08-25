@@ -3,6 +3,7 @@ TODO
 * Finish scope of current spots
 * Go through all in progress location content
 * Review content and polish off other pages
+  - New images of gear flies
 * Add more Techniques
 * Hatch map
 * Add more content over time

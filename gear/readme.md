@@ -10,7 +10,7 @@
   - Extendable: 7.8', 9.5', 11'
   - Link: <https://dragontailtenkara.com/products/mizuchi-zx340-zoom-tenkara-rod>
 
-## Fly Fishing
+## Fly Setup
 
 - Martin
   - 8', 5/6 weight
