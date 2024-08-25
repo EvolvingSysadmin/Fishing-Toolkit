@@ -30,6 +30,7 @@
   - Location: [Little Virginia Lake Location](https://maps.app.goo.gl/2Si3RWAC8t2a8XGJ6)
   - Trailhead: []()
   - AllTrails: [Little Virginia Lake AllTrails Map]()
+  - A small resort with store is at Little Virginia.
   - 9,800'
 
 - **Red Lake**

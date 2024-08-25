@@ -28,3 +28,4 @@
 
 - Truckee River: <https://www.flyfishingreports.com/fish_reports/210037/the-truckee-has-seen-a-steady-increase-in-flows-again-this-week.php>
 - <https://nrm.dfg.ca.gov/FishPlants/>
+- <https://www.virginialakesresort.com/fishingreport.htm>
