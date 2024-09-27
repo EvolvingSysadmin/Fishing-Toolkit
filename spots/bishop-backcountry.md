@@ -404,7 +404,7 @@
   - [Gnat](/img/black-gnat.jpg) #16
   - [BWO Parachute](/img/bwo-parachute-dun.jpg) #16
   - [Zug Bug](/img/zug-bug.jpg)
-  - [Renegade #16-18]
+  - [Renegade](/img/renegade) #16-18
 - **Wet Flies**
   - [Prince Nymph](/img/prince-nymph-beadhead.jpg)
   - [Hare's Ear Nymph](/img/hares-ear.jpg)
