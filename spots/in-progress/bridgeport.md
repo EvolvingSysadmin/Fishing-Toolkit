@@ -17,104 +17,123 @@
   - [Virginia Lakes Area Map](/img/virginia-lakes.gif)
 - **Trumbull Lake**
   - Location: [Trumbull Lake Location](https://maps.app.goo.gl/fRtZkqDLRyxx7zV2A)
-  - Trailhead: []()
-  - AllTrails: [Trumbull Lake AllTrails Map]()
+  - Accessible from parking lot
   - 9,700'
 - **Big Virginia Lake**
   - Location: [Big Virginia Lake Location](https://maps.app.goo.gl/RuRXuzsnnFF4Hr467)
-  - Trailhead: []()
-  - AllTrails: [Big Virginia Lake AllTrails Map]()
-  - 9,800'
-
+  - Accessible from parking lot
+  - At 9,800′
 - **Little Virginia Lake**
   - Location: [Little Virginia Lake Location](https://maps.app.goo.gl/2Si3RWAC8t2a8XGJ6)
-  - Trailhead: []()
-  - AllTrails: [Little Virginia Lake AllTrails Map]()
+  - Accessible from parking lot
   - A small resort with store is at Little Virginia.
-  - 9,800'
-
+  - At 9,800'
 - **Red Lake**
   - Location: [Red Lake Location](https://maps.app.goo.gl/1YiWA7bbFrRRxiDf8)
-  - Trailhead: []()
-  - AllTrails: [Red Lake AllTrails Map]()
-  - 9,400'
-
+  - Trailhead: [](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
+  - AllTrails: [Red Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
+  - 1.5 miles from Little Virginia at 9,400′
 - **Blue Lake**
   - Location: [Blue Lake Location](https://maps.app.goo.gl/2azeqa1cHmwfMsik8)
-  - Trailhead: []()
-  - AllTrails: [Blue Lake AllTrails Map]()
-  - 9,886'
-
+  - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
+  - AllTrails: [Blue Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
+  - 0.5 miles past trailhead 9,886'
 - **Moat Lake**
   - Location: [Moat Lake Location](https://maps.app.goo.gl/ZGJidE2TSC3TNbtm6)
-  - Trailhead: []()
-  - AllTrails: [Moat Lake AllTrails Map]()
-  - 10,575'
-
+  - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
+  - AllTrails: [Moat Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
+  - The trail branches off to Moat Lake ( 8 acres) which is a strenuous hike up to 10,575′ and about 1.5 hours of hiking from the trailhead
 - **Cooney Lake**
   - Location: [Cooney Lake Location](https://maps.app.goo.gl/JkotvbUx6dNu7m5b8)
-  - Trailhead: []()
-  - AllTrails: [Cooney Lake AllTrails Map]()
-  - 10,100'
-
+  - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
+  - AllTrails: [Cooney Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
+  - 1 hour hike from trailhead at 10,100'
 - **Frog Lakes**
   - Location: [Frog Lakes Location](https://maps.app.goo.gl/BCthT8Co7JfgQxeL7)
-  - Trailhead: []()
-  - AllTrails: [Frog Lakes AllTrails Map]()
-  - 10,100'
-
+  - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
+  - AllTrails: [Frog Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
+  - Right next to Cooney Lake at 10,100'
 - **Summit Lake**
   - Location: [Summit Lake Location](https://maps.app.goo.gl/UMm9DZRg5CU2Hqj97)
-  - Trailhead: []()
-  - AllTrails: [Summit Lake AllTrails Map]()
-  - 10,240'
-
+  - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
+  - AllTrails: [Summit Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
+  - 4 miles from the trailhead at 10,240′
+  - Summit Lake is unique in that there are two outlet streams that go to each side of the Sierra Crest
 - **Green Lake**
   - Location: [Green Lake Location](https://maps.app.goo.gl/bM1Avc9AsYpvsrv1A)
-  - Trailhead: []()
-  - AllTrails: [Green Lake AllTrails Map]()
-  - 9,000'
-
+  - Trailhead: [Green Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [Green Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/californiagreen-lake-via-green-creek-trail--2)
+    - Not exact map
+  -Lies between East and West Lakes at 9,000'
+- **West Lake**
+  - Location: [West Lake Location](https://maps.app.goo.gl/gRjqP1xtNg7L9aJc9)
+  - Trailhead: [West Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [West Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/west-lake-via-green-creek-trail)
+  - Additional 600′ gain at 9,600'
 - **East Lake**
   - Location: [East Lake Location](https://maps.app.goo.gl/Ry5f4taQw5qpXTVW7)
-  - Trailhead: []()
-  - AllTrails: [East Lake AllTrails Map]()
-  - 9,600'
-
+  - Trailhead: [Green Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [East Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/east-lake-trail)
+  - Additional 600′ gain at 9,600'
+  - Popular area to set up a base camp to explore the area
+- **Nutter Lake**
+  - Location: [Nutter Lake Location](https://maps.app.goo.gl/sKvZGDQJuycjXyoD7)
+  - Trailhead: [Green Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [Nutter Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/east-lake-trail)
+  - Between Gilman and East Lake
+  - Can have bigger fish than nearby lakes
+- **Par Value Lakes**
+  - Location: [Par Value Lakes Location](https://maps.app.goo.gl/7qEjuSUPsufTiK6B7)
+  - Trailhead: [Green Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [Par Value Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/east-lake-trail)
+  - Upper Par Value Lake is being managed as a “Fishless Lake” by DFG
+  - 1.5 hours hiking from Green Lake at 10,300′
 - **Gilman Lake**
   - Location: [Gilman Lake Location](https://maps.app.goo.gl/JcccFFWCfSNpdusx6)
-  - Trailhead: []()
-  - AllTrails: [Gilman Lake AllTrails Map]()
-  - 9,500'
-
+  - Trailhead: [Green Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [Gilman Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/east-lake-trail)
+    - Slightly farther on trail past East Lake
+  - South of East Lake along the trail at 9,500'
 - **Hoover Lakes**
   - Location: [Hoover Lakes Location](https://maps.app.goo.gl/6aWKEgo16PwoFkDE6)
-  - Trailhead: []()
-  - AllTrails: [Hoover Lakes AllTrails Map]()
+  - Trailhead: [Green Lake Trailhead](https://maps.app.goo.gl/sfSteap6tmYxZTWJ6)
+  - AllTrails: [Hoover Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/east-lake-trail)
+    - Not exact map, farther down the trail than East Lake and Gilman lake
   - 9,800'
-
 - **Lundy Lake**
   - Location: [Lundy Lake Location](https://maps.app.goo.gl/GMFDXwkf6eRpqTo78)
-  - Trailhead: []()
-  - AllTrails: [Lundy Lake AllTrails Map]()
-  - 7,800'
-
+  - Accessible by car, located at 7,800'
+  - The best areas to float tube are the shallower waters around the inlet and the launch area
+  - The lake is known for strong winds during the afternoon, so morning is the best time to flyfish.
+- **Mill Creek**
+  - Location: [Mill Creek Location](https://maps.app.goo.gl/aj3JtUPWawjNsAEf9)
+  - A trailhead exists at the dam which takes you for about a 2 hour hike up a very steep, strenuous trail to some upper lakes in the Lake Canyon area
+  - The following lakes are along the creek
 - **Oneida Lake**
   - Location: [Oneida Lake Location](https://maps.app.goo.gl/N2YaDe4U3YFpvRjQA)
-  - Trailhead: []()
-  - AllTrails: [Oneida Lake AllTrails Map]()
+  - Trailhead: [Lundy Canyon Trailhead](https://maps.app.goo.gl/cGDy4cTmzmVs6tFG8)
+  - AllTrails: [Oneida Lake AllTrails Map](https://www.alltrails.com/trail/us/california/lundy-to-oneida-lake-trail)
   - 9,656'
+- **Crystal Lake**
+  - Location: [Crystal Lake Location](https://maps.app.goo.gl/PMy2TgCtF9tVyWgw7)
+  - Trailhead: [Lundy Canyon Trailhead](https://maps.app.goo.gl/cGDy4cTmzmVs6tFG8)
+  - AllTrails: [Crystal Lake AllTrails](https://www.alltrails.com/trail/us/california/lundy-to-oneida-lake-trail)
+- **Blue Lake**
+  - Location: [Blue Lake Location](https://maps.app.goo.gl/p1SjFQCNHwjFKrud7)
+  - Trailhead: [Lundy Canyon Trailhead](https://maps.app.goo.gl/cGDy4cTmzmVs6tFG8)
+  - AllTrails: [Blue Lake AllTrails](https://www.alltrails.com/trail/us/california/lundy-to-oneida-lake-trail)
 
 ### Twin Lakes
 
 - **Twin Lakes Area Maps**
+  - [Twin Lakes Area Map](/img/twin-lakes.gif)
 - **Barney Lake**
   - Location: [Barney Lake Location](https://maps.app.goo.gl/k4AacU7rRSPo3sax7)
-  - Trailhead: []()
-  - AllTrails: [Barney Lake AllTrails Map]()
+  - Trailhead: [Robinson Creek / Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
+  - AllTrails: [Barney Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/barney-lake-trail)
 - **Robinson Creek**
   - Location: [Robinson Creek Location]()
-  - Trailhead: []()
+  - Trailhead: [Robinson Creek / Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
   - AllTrails: [Robinson Creek AllTrails Map]()
 - **Buckeye Creek**
   - Location: [Buckeye Creek Location]()
@@ -151,7 +170,6 @@
 
 - **East Walker River Area Maps**
 
-
 Bottom of dam outlet where river crosses 182
 
 Use wading staff
@@ -163,8 +181,6 @@ Use wading staff
 - I’ve done some damage here with Rubber Legs. It’s great pocket water. I might fish a Prince Nymph under a Rubber Legs under enough shot to get it all down. High stick heaven.
 
 - Rosaschi Ranch is public access fishing located off the highway. To get there, head into Nevada and make a right on the dirt road that points to Hawthorne. I like to drive to the bridge.
-
-https://www.visitmammoth.com/blogs/remarkable-east-walker-river/#:~:text=The%20Miracle%20Mile%20is%20the,East%20Walker%20River%20Wildlife%20Area.
 
 Also fish the elbow
 
@@ -248,3 +264,4 @@ I also like fishing Robinson Creek a few miles southwest of Bridgeport - along T
 - [Fly Fishing the Sierra Twin Lakes](https://flyfishingthesierra.com/twin-lakes/)
 - [Fly Fishing the Sierra Virginia Lakes](https://flyfishingthesierra.com/virginia-lakes-backcountry/)
 - [Fly Fishing the Sierra Buckeye Creek](https://flyfishingthesierra.com/buckeye-creek/)
+- [Visit Mammoth East Walker River](https://www.visitmammoth.com/blogs/remarkable-east-walker-river/#:~:text=The%20Miracle%20Mile%20is%20the,East%20Walker%20River%20Wildlife%20Area)
