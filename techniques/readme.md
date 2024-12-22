@@ -32,7 +32,7 @@
     - To shoot line out strip line first and release finger when casting
   - Video Tutorial: [Overhead Cast Tutorial](https://www.youtube.com/watch?v=ey2DSp3_s6E)
 
-  ### Overhead Cast
+### Overhead Cast
 
 - **Description**:
   - Most common technique; useful in open areas
@@ -51,7 +51,6 @@
   - To shoot line out: strip line first and release your finger when casting
   
 - **Video Tutorial**: [Overhead Cast Tutorial](https://www.youtube.com/watch?v=ey2DSp3_s6E)
-
 
 - **Roll Cast**:
   - Description:
