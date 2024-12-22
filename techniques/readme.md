@@ -10,7 +10,6 @@
 - [Specific Techniques](#specific-techniques)
   - [Euro Nymphing](#euro-nymphing)
   - [Tenkara](#tenkara)
-  - [Wet Wading](#wet-wading)
 
 ## Casting
 
