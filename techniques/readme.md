@@ -32,6 +32,27 @@
     - To shoot line out strip line first and release finger when casting
   - Video Tutorial: [Overhead Cast Tutorial](https://www.youtube.com/watch?v=ey2DSp3_s6E)
 
+  ### Overhead Cast
+
+- **Description**:
+  - Most common technique; useful in open areas
+  
+- **Technique**:
+  - Lift the rod smoothly, pause, and cast forward with controlled force
+  - Can pick up and lay down the line, false cast, and shoot line out
+  
+- **Keys**:
+  - Use the right amount of line in the water; don't hold any stripped line in your left hand
+  - Keep the line straight in the water
+  - Start with a low rod tip
+  - Pause on the backcast, don't break the wrist, and avoid casting too far forward
+    - The tighter the arc of your hand, the tighter the loop will be
+  - Keep the rod tall and straight for false casting, but don't false cast too much
+  - To shoot line out: strip line first and release your finger when casting
+  
+- **Video Tutorial**: [Overhead Cast Tutorial](https://www.youtube.com/watch?v=ey2DSp3_s6E)
+
+
 - **Roll Cast**:
   - Description:
     - Effective in tight spaces with obstacles behind
