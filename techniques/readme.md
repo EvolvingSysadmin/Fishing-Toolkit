@@ -1,6 +1,7 @@
 # Techniques
 
 - [Casting](#casting)
+  - [Overhead Cast](#overhead-cast)
 - [Fly Selection](#fly-selection)
 - [Rigging](#rigging)
   - [General Rigging](#general-rigging)
@@ -13,29 +14,15 @@
 
 ## Casting
 
-- Don't break wrist while casting. The rod tip should go in a straight motion, it shouldn't angle down towards the water
-- Always keep line under right hand when stripping
+Follow these general tips when casting:
 
-- **Overhead Cast**:
-  - Description:
-    - Most common technique; useful in open areas
-  - Technique:
-    - Lift the rod smoothly, pause, and cast forward with controlled force
-    - Can pick up and lay down the line, false cast, and shoot line out
-  - Keys:
-    - Use right amount of line in the water, don't hold any stripped line in left hand
-    - Keep line straight in the water
-    - Start with low rod tip
-    - Pause on backcast, don't break wrist, don't go too far forward
-      - Tighter the arc of hand, the tighter the loop will be
-    - Keep rod tall and straight for false casting, but don't false cast too much
-    - To shoot line out strip line first and release finger when casting
-  - Video Tutorial: [Overhead Cast Tutorial](https://www.youtube.com/watch?v=ey2DSp3_s6E)
+- Don't break wrist
+- Keep the rod tip should go in a straight motion, it shouldn't angle down towards the water
+- Always keep line under right hand when stripping
 
 ### Overhead Cast
 
-- **Description**:
-  - Most common technique; useful in open areas
+- **Description**: Most common technique; useful in open areas
   
 - **Technique**:
   - Lift the rod smoothly, pause, and cast forward with controlled force
