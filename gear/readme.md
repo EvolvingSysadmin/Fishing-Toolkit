@@ -12,24 +12,24 @@
 
 ### Tenkara
 
-- Tiny Tenkara
+- **Tiny Tenkara**
   - Tiny 10, 8'
   - Link: <https://tinytenkara.com/collections/products/products/tiny-ten-rod>
-- Dragontail
+- **Dragontail**
   - Mizuchi zx340 Zoom Tenkara Rod
   - Extendable: 7.8', 9.5', 11'
   - Link: <https://dragontailtenkara.com/products/mizuchi-zx340-zoom-tenkara-rod>
 
 ### Fly Combos
 
-- Martin
+- **Martin**
   - 8', 5/6 weight
-- Echo Carbon XL
+- **Echo Carbon XL**
   - Model: 490-4
   - 9', 4 weight
   - Link: <https://echoflyfishing.com/project/echocarbonxl/>
   - Consider getting Battenkill Disc 3 reel
-- Echo Traverse
+- **Echo Traverse**
   - Model: TRAV-490
   - 9', 4 weight
   - ECHO ION fly reel
@@ -37,24 +37,24 @@
 
 ### Spinning Combos
 
-- Backcountry packable
+- **Backcountry packable**
   - St. Croix TSR56ULF4
   - 5'6", 4 piece ultralight travel
   - Dawai BG1500
-- Backcountry
+- **Ultralight**
   - Okuma Celilo Graphite Lightweight CD-S-662UL-1
   - 6'6", ultralite 2 piece
   - Shimano Sienna 500FD
-- Lake
+- **Lake/Bass**
   - SILSTAR 1200-66sp Graphite Composite
   - 6'6" Med Spinning Rod
   - Shimano FX Spinning Reel FX1000FB
-- Bass
+- **Bass**
   - 13 Fishing DB2S71MH Defy Black 2
   - 7'1"
   - Dawai BG3500
   - Consider getting used 2500 sized reel
-- Sentimental Rod
+- **Sentimental Rod**
   - Vintage Fenwick FS61 6'
 
 ## Flies
