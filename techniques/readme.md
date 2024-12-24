@@ -2,15 +2,32 @@
 
 - [Casting](#casting)
   - [Overhead Cast](#overhead-cast)
-- [Fly Selection](#fly-selection)
+  - [Single Haul Cast](#single-haul-cast)
+  - [Sidearm Cast](#sidearm-cast)
+  - [Double Haul Cast](#double-haul-cast)
+  - [Reach Cast](#reach-cast)
+  - [Spey Cast](#spey-cast)
+  - [Tuck Cast](#tuck-cast)
+  - [Bow and Arrow Cast](#bow-and-arrow-cast)
+  - [Water Haul](#water-haul)
+  - [Mend Cast](#mend-cast)
+- [Styles](#styles)
+  - [Nymph Fishing](#nymph-fishing)
+  - [Euro Nymphing](#euro-nymphing)
+  - [Streamer Fishing](#streamer-fishing)
+  - [Tenkara](#tenkara)
+  - [High Sticking](#high-sticking)
+  - [Bass Fishing](#bass-fishing)
+  - [Spin Fishing](#spin-fishing)
+- [Tips](#tips)
+  - [Targeting](#targeting)
+  - [Drifts](#drifts)
 - [Rigging](#rigging)
   - [General Rigging](#general-rigging)
   - [Dry Hopper Rigging](#dry-dropper-rigging)
-  - [Tippet](#tippet)
   - [Knots](#knots)
-- [Specific Techniques](#specific-techniques)
-  - [Euro Nymphing](#euro-nymphing)
-  - [Tenkara](#tenkara)
+  - [Fly Selection](#fly-selection)
+- [Resources](#resources)
 
 ## Casting
 
@@ -23,11 +40,9 @@ Follow these general tips when casting:
 ### Overhead Cast
 
 - **Description**: Most common technique; useful in open areas
-  
 - **Technique**:
   - Lift the rod smoothly, pause, and cast forward with controlled force
   - Can pick up and lay down the line, false cast, and shoot line out
-  
 - **Keys**:
   - Use the right amount of line in the water; don't hold any stripped line in your left hand
   - Keep the line straight in the water
@@ -36,71 +51,125 @@ Follow these general tips when casting:
     - The tighter the arc of your hand, the tighter the loop will be
   - Keep the rod tall and straight for false casting, but don't false cast too much
   - To shoot line out: strip line first and release your finger when casting
-  
-- **Video Tutorial**: [Overhead Cast Tutorial](https://www.youtube.com/watch?v=ey2DSp3_s6E)
+  - Start with right foot forward
+- **Resources**:
+  - [Intro to Overhead Cast Article](https://riverbum.com/blog/intro-to-fly-fishing-casting-with-the-overhead-cast/)
+  - [Basic Fly Cast or Overhead Cast Video](https://www.youtube.com/watch?v=ey2DSp3_s6E)
+  - [How to Perfect Your Forward Cast](https://www.youtube.com/watch?v=wLMkJOsLHqY)
+  - [ORVIS - Fly Casting Lessons - The Basic Fly Cast Video](https://www.youtube.com/watch?v=oDJJ6W23gHw)
+  - [ORVIS - Fly Casting Lessons - How To Hold Your Line Hand](https://www.youtube.com/watch?v=f85kwEeuGOg)
 
-- **Roll Cast**:
-  - Description:
-    - Effective in tight spaces with obstacles behind
-  - Technique:
-    - Flick the rod tip forward from a looped line position on the water
-  - Keys:
-    - Start with some line in water and a bit behind shoulder
-    - Hand position should be next to ear/shoulder with the rod tip turned outward
-    - Bring hand forward and push with thumb to cast
-    - Stop rod tip at eye level
-      - Avoid dropping tip
-  - Video tutorial: [Roll Cast Tutorial](https://www.youtube.com/watch?v=vHMfCJINGJM)
+### Roll Cast
 
-- **Single Haul Cast**
-  - Description:
-    - Adds extra line speed and distance to a cast
-  - Technique:
-    - Pull on the line with the non-rod hand during either the backcast or forward cast, but not both
- - Video tutorial: [Single Haul Tutorial](https://www.youtube.com/watch?v=_kGarvsfn5c)
+- **Description**: Effective in tight spaces with obstacles behind
+- **Technique**: Flick the rod tip forward from a looped line position on the water
+- **Keys**:
+  - Start with some line in water and a bit behind shoulder
+  - Hand position should be next to ear/shoulder with the rod tip turned outward
+  - Bring hand forward and push with thumb to cast
+  - Stop rod tip at eye level
+  - Avoid dropping tip
+- **Resources**:
+  - [Roll Cast Video Tutorial](https://www.youtube.com/watch?v=vHMfCJINGJM)
+  - [Overhead and Roll Casting Instructions](https://www.flyfish-scotland.com/fly_fishing_instruction.htm)
 
-- **Sidearm Cast**:
-  - Description:
-    - Cast parallel to the water to avoid low-hanging branches.
-    - Provides accuracy in windy conditions or under cover.
-  - Technique:
-  - Video tutorial: 
+### Single Haul Cast
 
-- **Reach Cast**:
-  - Allows for better line positioning on the water.
-  - Extend the rod arm in the desired direction mid-cast.
+- **Description**: Adds extra line speed and distance to a cast
+- **Technique**: Pull on the line with the non-rod hand during either the backcast or forward cast, but not both
+- **Keys**:
+- **Resources**:
+  - [Single Haul Video Tutorial](https://www.youtube.com/watch?v=_kGarvsfn5c)
 
+### Sidearm Cast
 
+- **Description**: Provides accuracy in windy conditions or under cover
+- **Technique**: Cast parallel to the water to avoid low-hanging branches
+- **Keys**:
+- **Resources**:
 
-- **Double Haul Cast**:
-  - Increases line speed for longer casts.
-  - Pull on the line with the non-rod hand during both the backcast and forward cast.
+### Double Haul Cast
 
-- **Spey Cast**:
-  - Ideal for large rivers and strong currents.
-  - Uses a longer rod and sweeping motion for line control without a backcast.
+- **Description**: Increases line speed for longer casts
+- **Technique**: Pull on the line with the non-rod hand during both the backcast and forward cast.
+- **Keys**:
+- **Resources**:
 
-- **Tuck Cast**:
-  - Drops the fly quickly for deeper nymphing.
-  - Perform a sharp downward flick at the end of the cast.
+### Reach Cast
 
-- **Bow and Arrow Cast**:
-  - Used in extremely tight spots where a backcast isn’t possible.
-  - Pull the fly back like an arrow and release forward.
+- **Description**: Allows for better line positioning on the water
+- **Technique**: Extend the rod arm in the desired direction mid-cast
+- **Keys**:
+- **Resources**:
 
-- **Water Loading**
+### Spey Cast
 
-- **Mend Cast?**
+- **Description**: Ideal for large rivers and strong currents
+- **Technique**: Uses a longer rod and sweeping motion for line control without a backcast
+- **Keys**: 
+- **Resources**: 
 
-## Fly Selection
+### Tuck Cast
 
-- Pick up rocks to see what's underneath for fly selection
-- Ducks typically mean hoppers
-- Any trout in the world will eat a size 18 Pheasant Tail out of a river
+- **Description**: Drops the fly quickly for deeper nymphing
+- **Technique**: Perform a sharp downward flick at the end of the cast
+- **Keys**: 
+- **Resources**: 
 
-## Targeting
+### Bow and Arrow Cast
+
+- **Description**: Used in extremely tight spots where a backcast isn’t possible
+- **Technique**: Pull the fly back like an arrow and release forward
+- **Keys**:
+- **Resources**:
+
+### Water Haul
+
+- **Description**: 
+- **Technique**: 
+- **Keys**: 
+- **Resources**: 
+
+### Mend Cast
+
+- **Description**: 
+- **Technique**: 
+- **Keys**: 
+- **Resources**: 
+
+## Styles
+
+### Nymph Fishing
+
+- [Basic Guide to Nymphing](https://askaboutflyfishing.fliesforsale.com/basic-guide-to-nymphing)
+
+### Euro Nymphing
+
+### Wet Fly Fishing
+
+- [How to Use Wet Flies Article](https://www.thetriplehaul.com/post/how-to-use-wet-flies-rigging)
+
+### Streamer Fishing
+
+### Tenkara
+
+### High Sticking
+
+### Bass Fishing
+
+### Bass Fishing Rigs
+
+- [5 Bass Rigs You Need to Know YouTube Video](https://www.youtube.com/watch?v=LvVBMY1wfco)
+
+### Spin Fishing
+
+## Tips
+
+### Targeting
 
 - Target different areas of rivers by working the entire body of water
+
+### Drifts
 
 ## Rigging
 
@@ -111,8 +180,6 @@ Follow these general tips when casting:
 - Single nymph: leader -> 3X -> nymph (with indicator)
 - Double nymph: leader -> 3X -> nymph -> 3X -> nymph (with indicator)
 - Streamer: leader -> 3X -> streamer
-
-### Tippet
 
 ### Knots
 
@@ -126,24 +193,19 @@ Follow these general tips when casting:
 - [General Dry Hopper Setup](/img)
 - <https://www.hatchmag.com/articles/dry-dropper-nymphing-approach-low-water/7715593>
 
-## Specific Techniques
+### Fly Selection
 
-### Euro Nymphing
+Use nylon pants to keep off the bugs & sun, worn with a pair of thin socks, wading socks, and rubber-soled wading boots.
 
-### Tenkara
+- Pick up rocks to see what's underneath for fly selection
+- Ducks typically mean hoppers
+- Any trout in the world will eat a size 18 Pheasant Tail out of a river
 
 Wet Flies:
 
 Use small black baetis, or other wet fly, with split shot relative to depth, and no indicator. Use 2 1/2 feet of 5X tippet tied on the end of the tenkara line - using a tippet ring - to the fly. The split shot is about a foot above the fly.
 
-## Wet Flies
-
-Use nylon pants to keep off the bugs & sun, worn with a pair of thin socks, wading socks, and rubber-soled wading boots.
-
 ## Resources
 
-https://www.youtube.com/watch?v=LvVBMY1wfco
-
-https://www.thetriplehaul.com/post/how-to-use-wet-flies-rigging
-
-https://askaboutflyfishing.fliesforsale.com/free-guides/
+- [5 Casting Techniques You Should Know YouTube Video](https://www.youtube.com/watch?v=LvVBMY1wfco)
+- [Ask About Fly Fishing Guides](https://askaboutflyfishing.fliesforsale.com/free-guides/)
