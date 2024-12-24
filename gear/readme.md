@@ -1,6 +1,16 @@
 # Gear
 
-## Tenkara
+- [Rods & Combos](#rods--combos)
+  - [Tenkara](#tenkara)
+  - [Fly Combos](#fly-combos)
+  - [Spinning Combos](#spinning-combos)
+- [Flies](#flies)
+- [Lures](#lures)
+- [Other](#other)
+
+## Rods & Combos
+
+### Tenkara
 
 - Tiny Tenkara
   - Tiny 10, 8'
@@ -10,7 +20,7 @@
   - Extendable: 7.8', 9.5', 11'
   - Link: <https://dragontailtenkara.com/products/mizuchi-zx340-zoom-tenkara-rod>
 
-## Fly Setup
+### Fly Combos
 
 - Martin
   - 8', 5/6 weight
@@ -18,13 +28,14 @@
   - Model: 490-4
   - 9', 4 weight
   - Link: <https://echoflyfishing.com/project/echocarbonxl/>
+  - Consider getting Battenkill Disc 3 reel
 - Echo Traverse
   - Model: TRAV-490
   - 9', 4 weight
   - ECHO ION fly reel
   - Link: <https://echoflyfishing.com/project/echo-traverse-kit/>
 
-## Spinning Combos
+### Spinning Combos
 
 - Backcountry packable
   - St. Croix TSR56ULF4
@@ -38,11 +49,12 @@
   - SILSTAR 1200-66sp Graphite Composite
   - 6'6" Med Spinning Rod
   - Shimano FX Spinning Reel FX1000FB
-- Saltwater
+- Bass
   - 13 Fishing DB2S71MH Defy Black 2
   - 7'1"
   - Dawai BG3500
-- Grandpa's rod <3
+  - Consider getting used 2500 sized reel
+- Sentimental Rod
   - Vintage Fenwick FS61 6'
 
 ## Flies
