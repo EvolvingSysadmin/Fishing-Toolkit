@@ -49,6 +49,7 @@
   - SILSTAR 1200-66sp Graphite Composite
   - 6'6" Med Spinning Rod
   - Shimano FX Spinning Reel FX1000FB
+  - Consider a 2000 size
 - **Bass**
   - 13 Fishing DB2S71MH Defy Black 2
   - 7'1"
