@@ -125,35 +125,41 @@
 
 ### Twin Lakes
 
-https://flyfishingthesierra.com/twin-lakes/
-
 - **Twin Lakes Area Maps**
   - [Twin Lakes Area Map](/img/twin-lakes.gif)
-  - [Twin Lakes]
+- **Twin Lakes**
+  - Location: [Twin Lakes Location](https://maps.app.goo.gl/Viee6fjZEfHxiXz5A)
+  - Has an upper and lower lake
+  - Best fly fishing is by float tubing along the banks in the early morning and late evening
+  - At 7,000'
 - **Barney Lake**
   - Location: [Barney Lake Location](https://maps.app.goo.gl/k4AacU7rRSPo3sax7)
-  - Trailhead: [Robinson Creek / Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
+  - Trailhead: [Robinson Creek/Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
   - AllTrails: [Barney Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/barney-lake-trail)
+  - At 8,300′
 - **Robinson Creek**
-  - Location: [Robinson Creek Location]()
-  - Trailhead: [Robinson Creek / Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
-  - AllTrails: [Robinson Creek AllTrails Map]()
+  - Location: [Robinson Creek Location](https://maps.app.goo.gl/Nd6cmL9upTWiMQ9p9)
+  - Trailhead: [Robinson Creek/Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
+  - AllTrails: [Robinson Creek AllTrails Map](https://www.alltrails.com/trail/us/california/robinson-creek-trail-to-maltby-and-ice-lakes)
+  - 13 miles of fishable stream going from 7,000′ to 6,400′
+  - Parallel to Twin Lakes Road and also from Hwy 395 where it crosses about 2 miles north of Bridgeport
 - **Buckeye Creek**
-  - Location: [Buckeye Creek Location]()
-  - Trailhead: []()
-  - AllTrails: [Buckeye Creek AllTrails Map]()
+  - Location: [Buckeye Creek Location](https://maps.app.goo.gl/gXojvtk3XDk3NJd26)
+  - Trailhead: [Buckeye Creek Trailhead](https://maps.app.goo.gl/A9D1V6fW81CUN5jc8)
+  - Fish are planted at the Buckeye Creek Campground
 - **Maltby Lake**
   - Location: [Maltby Lake Location](https://maps.app.goo.gl/q7FwV5qhk9PPngKA6)
-  - Trailhead: []()
-  - AllTrails: [Maltby Lake AllTrails Map]()
+  - Trailhead: [Robinson Creek/Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
+  - AllTrails: [Maltby Lake AllTrails Map](https://www.alltrails.com/trail/us/california/robinson-creek-trail-to-maltby-and-ice-lakes)
 - **Ice Lake**
   - Location: [Ice Lake Location](https://maps.app.goo.gl/79YDkRnTVVGtxQ5J6)
-  - Trailhead: []()
-  - AllTrails: [Ice Lake AllTrails Maps]()
+  - Trailhead: [Robinson Creek/Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
+  - AllTrails: [Ice Lake AllTrails Maps](https://www.alltrails.com/trail/us/california/robinson-creek-trail-to-maltby-and-ice-lakes)
 - **Glacier Lake**
   - Location: [Glacier Lake Location](https://maps.app.goo.gl/esef9pnFrxTAu59w9)
-  - Trailhead: []()
-  - AllTrails: [Glacier Lake AllTrails Map]()
+  - Trailhead: [Robinson Creek/Barney Lake Trailhead](https://maps.app.goo.gl/8kYSQgySb7FyNaR3A)
+  - AllTrails: [Glacier Lake AllTrails Map](https://www.alltrails.com/trail/us/california/robinson-creek-trail-to-maltby-and-ice-lakes)
+    - May be wrong trail, the lake is South of Ice Lake
 - **Avalanche Lake**
   - Fishless
 - **Turquoise Lake**
@@ -162,32 +168,35 @@ https://flyfishingthesierra.com/twin-lakes/
   - Fishless
 - **Tamarack Lake**
   - Location: [Tamarack Lake Location](https://maps.app.goo.gl/qY99PaQvzqacybG98)
-  - Trailhead: []()
-  - AllTrails: [Tamarack Lake AllTrails]()
+  - Trailhead: [Tamarack Lake Trailhead](https://maps.app.goo.gl/YonLAKaotutXa7ao8)
+  - AllTrails: [Tamarack Lake AllTrails](https://www.alltrails.com/trail/us/california/tamarack-lake-trail-twin-lakes)
+  - At 9,700′
 - **Hunewill Lake**
   - Location: [Hunewill Lake Location](https://maps.app.goo.gl/o3HwMaoHgABXPSYY6)
-  - Trailhead: []()
-  - AllTrails: [Hunewill Lake AllTrails]()
+  - Trailhead: [Tamarack Lake Trailhead](https://maps.app.goo.gl/YonLAKaotutXa7ao8)
+  - AllTrails: [Hunewill Lake AllTrails](https://www.alltrails.com/trail/us/california/tamarack-lake-trail-twin-lakes)
+  - 1/2 mile beyond Tamarack Lake
 
 ### East Walker River
 
 - **East Walker River Area Maps**
-
-Bottom of dam outlet where river crosses 182
-
-Use wading staff
-
-- Mike is fishing a 10-foot, 4-weight here. This is a great rod for fishing the Miracle Mile under an indicator. The most effective technique here is to quickly stack mend your line after your first initial cast to allow your weighted flies to drop down into the zone quickly. I wouldn’t fish a rod any lighter than this on the EW. 3X to 5X tippet depending on time of year and water clarity. If you’re going to high stick this section, an 11-foot, 5-weight switch rod will do the trick.
-
-- If I could take only four dries to the East Walker, they’d be an Elk Hair Caddis, EC Caddis, PMD, and Callibaetis Cripple. All in the 16/18 size range.
-
-- I’ve done some damage here with Rubber Legs. It’s great pocket water. I might fish a Prince Nymph under a Rubber Legs under enough shot to get it all down. High stick heaven.
-
-- Rosaschi Ranch is public access fishing located off the highway. To get there, head into Nevada and make a right on the dirt road that points to Hawthorne. I like to drive to the bridge.
-
-Also fish the elbow
-
-I also like fishing Robinson Creek a few miles southwest of Bridgeport - along Twin Lakes Road.
+  - [East Walker River Area Map](/img/east-walker.gif)
+- **Bridgeport Reservoir Dam**
+  - Location: [Bridgeport Reservoir Dam Location](https://maps.app.goo.gl/RRrxk8C7Eaqf1yHv5)
+- **East Fork Walker**
+  - Location: [East Fork Walker Location](https://maps.app.goo.gl/aPnhCLg1VRCGyMr97)
+- **Murphy Creek**
+  - Location: [Murphy Creek Location](https://maps.app.goo.gl/6dUAESnBmYcJgSrx8)
+- **Devils Gate**
+  - Location: [Devils Gate Location](https://maps.app.goo.gl/96Ly4ouJJRUdC8np9)
+- **East Walker River Tips**
+  - Bottom of dam outlet where river crosses 182 is the Miracle Mile
+  - Use wading staff
+  - The most effective technique here is to quickly stack mend your line after your first initial cast to allow your weighted flies to drop down into the zone quickly. I wouldn’t fish a rod any lighter than this on the EW. 3X to 5X tippet depending on time of year and water clarity. If you’re going to high stick this section, an 11-foot, 5-weight switch rod will do the trick.
+  - If I could take only four dries to the East Walker, they’d be an Elk Hair Caddis, EC Caddis, PMD, and Callibaetis Cripple. All in the 16/18 size range.
+  - I’ve done some damage here with Rubber Legs. It’s great pocket water. I might fish a Prince Nymph under a Rubber Legs under enough shot to get it all down. High stick heaven.
+  - Rosaschi Ranch is public access fishing located off the highway. To get there, head into Nevada and make a right on the dirt road that points to Hawthorne. I like to drive to the bridge.
+  - Also try Robinson Creek a few miles southwest of Bridgeport - along Twin Lakes Road.
 
 ## Flies
 
@@ -265,6 +274,9 @@ I also like fishing Robinson Creek a few miles southwest of Bridgeport - along T
 
 - [Fly Fishing the Sierra East Walker River](https://flyfishingthesierra.com/east-walker-river/)
 - [Fly Fishing the Sierra Twin Lakes](https://flyfishingthesierra.com/twin-lakes/)
+- [Twin Lakes Resort](https://twinlakeresort.com/)
 - [Fly Fishing the Sierra Virginia Lakes](https://flyfishingthesierra.com/virginia-lakes-backcountry/)
 - [Fly Fishing the Sierra Buckeye Creek](https://flyfishingthesierra.com/buckeye-creek/)
 - [Visit Mammoth East Walker River](https://www.visitmammoth.com/blogs/remarkable-east-walker-river/#:~:text=The%20Miracle%20Mile%20is%20the,East%20Walker%20River%20Wildlife%20Area)
+- [East Walker River Fishing Report](https://www.californiaflyfishingreports.com/east-walker-river)
+- [East Walker River Flows](https://waterdata.usgs.gov/monitoring-location/10293000/#dataTypeId=continuous-00065-0&period=P7D&showMedian=false)

@@ -26,6 +26,7 @@
 - [East Walker River DWP Flows](https://waterdata.usgs.gov/ca/nwis/uv?site_no=10293000)
 - [Eastern Sierra Fish Reports Lower Owens](https://www.easternsierrafishreports.com/rivers/920/owens-river---lower.php)
 - [FlyFishingReports.com Upper Owens](https://www.flyfishingreports.com/fish_reports/215214/upper-owens-river-updates.php)
+- [East Walker River Fishing Report](https://www.californiaflyfishingreports.com/east-walker-river)
 
 ## Hot Creek/Mammoth
 

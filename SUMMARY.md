@@ -6,6 +6,7 @@
   - [Big Pine](/spots/big-pine.md)
   - [Bishop Backcountry](/spots/bishop-backcountry.md)
   - [Bishop](/spots/bishop.md)
+  - [Bridgeport](/spots/bridgeport.md)
   - [Convict Creek](/spots/convict-creek.md)
   - [Crowley](/spots/crowley.md)
   - [Hot Creek](/spots/hot-creek.md)
