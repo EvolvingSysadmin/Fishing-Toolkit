@@ -1,7 +1,5 @@
 TODO
 
-* Finish scope of current spots
-* Go through all in progress location content
 * Review content and polish off other pages
   - New images of gear flies after organizing
 * Ensure Goldens are in documentation and perhaps add another layer with Goldens
@@ -15,5 +13,3 @@ TODO
     * https://www.fs.usda.gov/activity/inyo/recreation/fishing/?recid=20228&actid=43
   * Books
 * Purchase books recommended by Chris
-* Make page about cool resorts?
-* Test git
