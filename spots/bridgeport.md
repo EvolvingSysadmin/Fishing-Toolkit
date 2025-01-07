@@ -277,6 +277,6 @@
 - [Twin Lakes Resort](https://twinlakeresort.com/)
 - [Fly Fishing the Sierra Virginia Lakes](https://flyfishingthesierra.com/virginia-lakes-backcountry/)
 - [Fly Fishing the Sierra Buckeye Creek](https://flyfishingthesierra.com/buckeye-creek/)
-- [Visit Mammoth East Walker River](https://www.visitmammoth.com/blogs/remarkable-east-walker-river/#:~:text=The%20Miracle%20Mile%20is%20the,East%20Walker%20River%20Wildlife%20Area)
+- [Visit Mammoth East Walker River](https://www.visitmammoth.com/blogs/remarkable-east-walker-river/)
 - [East Walker River Fishing Report](https://www.californiaflyfishingreports.com/east-walker-river)
 - [East Walker River Flows](https://waterdata.usgs.gov/monitoring-location/10293000/#dataTypeId=continuous-00065-0&period=P7D&showMedian=false)
