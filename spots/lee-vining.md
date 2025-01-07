@@ -41,7 +41,7 @@
   - Location: [Saddleback Lakes Location](https://maps.app.goo.gl/xSBvcr1sDcsf15Gz5)
   - Trailhead: [Saddleback Lakes Trailhead](https://maps.app.goo.gl/qPRGJcjvVNrqbFrh6)
 - **Ellery Lake**
-  - Location[Ellery Lake Location](https://www.google.com/maps?q=Ellery+Lake&ftid=0x8096501c0f3a742f:0x7e01357d18f1c29d)
+  - Location: [Ellery Lake Location](https://www.google.com/maps?q=Ellery+Lake&ftid=0x8096501c0f3a742f:0x7e01357d18f1c29d)
   - Large Rainbows will be feeding along the shorelines in the Spring, particularly around the inlet of Lee Vining Creek
   - May have Goldens
 - **Lee Vining Creek**
