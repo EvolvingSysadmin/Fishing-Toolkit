@@ -13,7 +13,14 @@
 
 ### Golden Trout
 
+![Golden Trout Image](/img/golden-trout.jpeg)
+- [CDFW Golden Trout](https://wildlife.ca.gov/Fishing/Inland/California-Golden-Trout)
+- [CDFW Golden Trout Historic Watersheds](/img/golden-trout-historic-watersheds.jpg)
+
 ### Lahontan Cutthroat Trout
+
+- [CDFW Lahontan Cutthroat Trout](https://wildlife.ca.gov/Fishing/Inland/Lahontan-Cutthroat-Trout)
+- [CDFW Lahontan Cutthroat Trout Historic Watersheds](/img/lahontan-cutthroat-trout-historic-watersheds.jpg)
 
 ### Brown Trout
 
