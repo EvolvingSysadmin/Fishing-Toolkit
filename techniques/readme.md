@@ -7,8 +7,9 @@
   - [Drifts](#drifts)
 - [Rigging](#rigging)
   - [General Rigging](#general-rigging)
-  - [Dry Hopper Rigging](#dry-dropper-rigging)
   - [Knots](#knots)
+  - [Tippet Sizing](#tippet-sizing)
+  - [Dry Hopper Rigging](#dry-dropper-rigging)
   - [Fly Selection](#fly-selection)
 - [Resources](#resources)
 
@@ -170,6 +171,10 @@ Follow these general tips when casting:
 - Surgeons for leader to leader or droppers
 - Perfection loop for Tenkara
 - Use spit on knots to ensure they seat properly
+
+### Tippet Sizing
+
+![Tippet Sizing Chart](/img/tippet-sizing.jpg)
 
 ### Dry Dropper Rigging
 
