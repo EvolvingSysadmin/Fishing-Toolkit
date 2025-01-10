@@ -144,6 +144,7 @@ Follow these general tips when casting:
 ### Bass Fishing Rigs
 
 - [5 Bass Rigs You Need to Know YouTube Video](https://www.youtube.com/watch?v=LvVBMY1wfco)
+- [Owens Valley Bass Kit](https://wonews.com/5-on-5-the-owens-valley-bass-kit/)
 
 ### Spin Fishing
 
