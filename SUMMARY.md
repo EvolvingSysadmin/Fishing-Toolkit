@@ -21,6 +21,6 @@
 - [Reports](/reports/readme.md)
 - [Techniques](/techniques/readme.md)
 - [Hatch](/hatch/readme.md)
-- [Fish](/fish/readme.md)
+- [Species](/species/readme.md)
 - [Gear](/gear/readme.md)
 - [Resources](/resources/readme.md)

@@ -1,4 +1,4 @@
-# Fish
+# Species
 
 - [Trout](#trout)
   - [Golden Trout](#golden-trout)
@@ -100,6 +100,7 @@
   - **Diet**: Consumes algae, detritus, and small invertebrates found in streambeds.
   - **Behavior**: Spawns during late spring to early summer in shallow, gravel-lined streams.
 - **Current Range**: Found in the Owens River and associated tributaries near Bishop, California including Crowley Lake.
+  - **Habitat Preference**:
   - **Historic Range**: Owens Basin, including its tributaries and spring-fed habitats.
 - **Conservation Status**: Species of Least Concern, though populations are monitored.
   - **Threats**: Habitat degradation from water diversion, urban development, and pollution; competition from invasive species.
@@ -109,10 +110,13 @@
 
 ## Owens Pupfish
 
+![Owens Pupfish]()
+
 - **Description**: The Owens Pupfish is a small, colorful fish endemic to the Owens Valley. Males exhibit bright blue and green hues during the breeding season, while females are more subdued in coloration.
   - **Diet**: Feeds on algae, small invertebrates, and detritus.
   - **Behavior**: Highly adaptable; can survive in extreme temperatures and salinity levels. Breeds in shallow, vegetated waters during spring and summer.
 - **Current Range**: Restricted to small, isolated habitats within the Owens Valley, including spring-fed ponds and irrigation ditches.
+  - **Habitat Preference**:
   - **Historic Range**: Originally widespread throughout the Owens River Basin.
 - **Conservation Status**: Critically Endangered due to habitat loss and competition from invasive species.
   - **Threats**: Habitat alteration from water diversion, urbanization, and agriculture; predation by introduced fish species.
@@ -127,6 +131,7 @@
   - **Diet**:
   - **Bheavior**:
 - **Current Range**:
+  - **Habitat Preference**:
   - **Historic Range**: 
 - **Conservation Status**: 
   - **Threats**: 
