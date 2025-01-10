@@ -6,7 +6,8 @@
   - [Brown Trout](#brook-trout)
   - [Rainbow Trout](#rainbow-trout)
   - [Brook Trout](#brook-trout)
-- [Suckerfish](#suckerfish)
+- [Owens Suckerfish](#owens-suckerfish)
+- [Owens Pupfish](#owens-pupfish)
 - [Bass](#bass)
 - [Resources](#resources)
 
@@ -122,22 +123,39 @@
   - **Threats**: Habitat alteration from water diversion, urbanization, and agriculture; predation by introduced fish species.
 - **More Information**:
   - [CDFW Owens Pupfish](https://wildlife.ca.gov/Regions/6/Desert-Fishes/Owens-pupfish)
+  - [USFWS Owens Pupfish](https://www.fws.gov/species/owens-pupfish-cyprinodon-radiosus)
 
 ## Sacramento Perch
 
+![Sacramento Perch](/img/sacramento-perch.jpg)
+
+- **Description**: The Sacramento Perch is a native freshwater sunfish with a deep, laterally compressed body and distinctive vertical stripes.
+  - **Diet**: Feeds on aquatic insects, crustaceans, and small fish.
+  - **Behavior**: Known for its adaptability to varying environmental conditions; nests in shallow waters with vegetation during the breeding season.
+- **Current Range**: Found in select reservoirs and lakes across California, including artificial and isolated water bodies such as Crowley Lake.
+  - **Habitat Preference**: Prefers warm, slow-moving waters with plenty of submerged vegetation.
+  - **Historic Range**: Originally widespread in the Central Valley and Sacramento-San Joaquin Delta.
+- **Conservation Status**: Near Threatened due to habitat loss and competition from invasive fish species.
+  - **Threats**: Habitat alteration, predation, and competition with introduced species such as bass and bluegill.
+  - [UC Davis Sacramento Perch](https://calfish.ucdavis.edu/location/?uid=81&ds=241)
+  - [CADFW Sacramento Perch](https://wildlife.ca.gov/Fishing/Inland/Sacramento-Perch)
+
 ## Bass
 
-- **Description**: 
-  - **Diet**:
-  - **Bheavior**:
-- **Current Range**:
-  - **Habitat Preference**:
-  - **Historic Range**: 
-- **Conservation Status**: 
-  - **Threats**: 
+- **Description**: Largemouth and smallmouth bass are non-native, warm-water fish species introduced to the Eastern Sierra known for their aggressive strikes and fishing ability.
+  - **Diet**: Opportunistic feeders; consume smaller fish, crayfish, aquatic insects, and frogs.
+  - **Beheavior**: Bass are ambush predators, often hiding in submerged vegetation or structures. They spawn in late spring to early summer in shallow, warm waters.
+- **Current Range**: Present in the lower Owens River, Buckley Ponds, Pleasant Valley Reservoir, and other warm-water habitats near Bishop, California.
+  - **Habitat Preference**: Prefers slow-moving or still waters with abundant aquatic vegetation and cover such as submerged logs or rocks.
+  - **Historic Range**: Not native to the region; introduced to enhance sport fishing opportunities.
+- **Conservation Status**: Not considered threatened or endangered, but their presence impacts native fish species through competition and predation.
+  - **Threats**: Habitat alteration, overfishing, and competition with other invasive species can affect population stability.
 - **More Information**:
-  - 
+  - [Western Outdoor News Owens Valley Bass Fishing](https://wonews.com/competitive-bass-fishing-in-the-owens-valley/)
 
 ## Resources
 
 - [High Sierra Fly Casters Fish of the Eastern Sierra](https://www.hsfc.us/fishing/species)
+- [UC Davis California Fish Species by Location](https://calfish.ucdavis.edu/location/)
+- [UC Davis Crowley Lake Species](https://calfish.ucdavis.edu/location/?catcol=3105&categorysearch=Crowley%20Lake%20Watershed&reportnumber=735&ds=241)
+- [CACDF Fish Species](https://wildlife.ca.gov/Fishing/Inland#fish-for)
