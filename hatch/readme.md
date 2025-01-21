@@ -5,3 +5,5 @@
 <https://askaboutflyfishing.fliesforsale.com/match-the-hatch/>
 
 <https://flyfishingthesierra.com/hatchEast.htm>
+
+![Stages of Common Insects](/img/insect-stages.png)

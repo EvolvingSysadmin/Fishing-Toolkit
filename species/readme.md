@@ -74,7 +74,7 @@
   - **Historic Range**: Native to the Pacific Coast; introduced to the Eastern Sierra.
 - **Conservation Status**: Stable, with heavy reliance on hatcheries.
   - **Threats**: Hybridization with native trout species.
-- **More Information**: 
+- **More Information**:
   - [FlyFisherman.com Rainbow Trout](https://www.flyfisherman.com/editorial/all-about-rainbow-trout/454217)
 
 ### Brook Trout
@@ -111,7 +111,7 @@
 
 ## Owens Pupfish
 
-![Owens Pupfish]()
+![Owens Pupfish](/img/owens-pupfish.jpg)
 
 - **Description**: The Owens Pupfish is a small, colorful fish endemic to the Owens Valley. Males exhibit bright blue and green hues during the breeding season, while females are more subdued in coloration.
   - **Diet**: Feeds on algae, small invertebrates, and detritus.
@@ -141,6 +141,8 @@
   - [CADFW Sacramento Perch](https://wildlife.ca.gov/Fishing/Inland/Sacramento-Perch)
 
 ## Bass
+
+![Largemouth Bass](/img/bass.jpg)
 
 - **Description**: Largemouth and smallmouth bass are non-native, warm-water fish species introduced to the Eastern Sierra known for their aggressive strikes and fishing ability.
   - **Diet**: Opportunistic feeders; consume smaller fish, crayfish, aquatic insects, and frogs.

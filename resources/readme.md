@@ -1,13 +1,18 @@
 # Resources
 
+## Regulations
+
+- [California DFW Fishing Regulations](https://wildlife.ca.gov/Regulations#freshwaterfishing)
+- [California DFW Fishing Regulations Map](https://apps.wildlife.ca.gov/sportfishingregs/)
+
 ## Informational Websites
 
-- <https://flyfishingthesierra.com>
-- <https://www.davessierrafishing.com>
-- <https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5410679.pdf>
+- [Fly Fishing the Sierra](https://flyfishingthesierra.com)
+- [Dave's Sierra Fishing](https://www.davessierrafishing.com)
 
-## Maps
+## Documents
 
-- <https://bishopvisitor.com/wp-content/uploads/2023/03/FishingMap-InyoCounty.pdf>
-- <https://bishopvisitor.com/wp-content/uploads/2022/04/Mono_FishingMap2022_web.pdf>
-
+- [CADFW Backcountry Fishing Guide](/resources/cadfw-eastern-sierra-backcountry-fishing-guide.pdf)
+- [Fly-Fishing Western Trout Streams by Jim McLennan](/resources/fly-fishing-western-trout-streams.pdf)
+  - [EPUB Version](/resources/McLennan,%20Jim%20-%20Fly-Fishing%20Western%20Trout%20Streams%20(2003,%20Stackpole%20Books).epub)
+- [Mammoth Fisheries Summer Trifecta by Chris Leonard](/resources//mammoth-fisheries-summer-trifecta.pdf)

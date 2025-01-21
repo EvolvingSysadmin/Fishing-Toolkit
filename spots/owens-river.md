@@ -1,10 +1,11 @@
 # Owens River
 
 - [Spots](#spots)
-  - [Upper Owens](#upper-owens)
-  - [Wild Trout Section](#wild-trout-section)
   - [Lower Owens](#lower-owens)
+  - [Wild Trout Section](#wild-trout-section)
+  - [Owens Gorge](#owens-gorge)
   - [Upper Owens](#upper-owens)
+
 - [Flies](#flies)
   - [Wild Trout Section](#wild-trout-section-flies)
   - [Upper Owens](#upper-owens-flies)
@@ -12,50 +13,54 @@
 
 ## Spots
 
-### Wild Trout Section
-
-- **Wild Trout Section Map**
-  - [Wild Trout Section Map](/img/wild-trout-section.gif)
-- **Pleasant Valley**
-  - Location: [Pleasant Valley Campground Location](https://maps.app.goo.gl/fhE8zfPEr2vYCN6o7)
-  - Location: [Pleasant Valley Reservoir Location](https://maps.app.goo.gl/3dsctPVpDg12GnXH8)
-  - Location: [Pleasant Valley Gorge](https://maps.app.goo.gl/65LJcWK7RmewdcJx9)
-- **Chalk Bluff Road**
-  - Location: [Chaulk Bluff # 1 Location](https://maps.app.goo.gl/5fgy25p5MHb47xGh7)
-  - Location: [Chaulk Bluff # 2 Location](https://maps.app.goo.gl/vviis8rVUYw6gGzv7)
-  - Location: [Chaulk Bluff # 3 Location](https://maps.app.goo.gl/zesmX63T5XYNvdXS6)
-  - Location: [Chaulk Bluff # 4 Location](https://maps.app.goo.gl/Zw2YNC4q3FLvcFDPA)
-- **Owens River Flow**
-  - Wet wading is safe when flows are below 250cfs
-
 ### Lower Owens
 
 - **Lower Owens Map**
   - [Lower Owens Map](/img/lower-owens.gif)
 - **Lower Owens**
-  - Location: [Highway 6 Crossing Location](https://maps.app.goo.gl/nVkktJpS26xknu4X9)
-  - Location: [5 Bridges Road Location](https://maps.app.goo.gl/cjDGJCgpSaRfJB6G7)
-  - Location: [Poleta Road Location](https://maps.app.goo.gl/c9orYTeFoHD6GQY47)
-  - Location: [Warm Springs Road Location](https://maps.app.goo.gl/bmDwvJnYKZJ8rgJTA)
-  - Location: [Collins Road Location](https://maps.app.goo.gl/gsrvDXdjF79MsouY6)
-  - Location: [Zurich Location](https://maps.app.goo.gl/e4Myy6J9FpXSMqJe9)
+  - [Highway 6 Crossing Location](https://maps.app.goo.gl/nVkktJpS26xknu4X9)
+  - [5 Bridges Road Location](https://maps.app.goo.gl/cjDGJCgpSaRfJB6G7)
+  - [Poleta Road Location](https://maps.app.goo.gl/c9orYTeFoHD6GQY47)
+  - [Warm Springs Road Location](https://maps.app.goo.gl/bmDwvJnYKZJ8rgJTA)
+  - [Collins Road Location](https://maps.app.goo.gl/gsrvDXdjF79MsouY6)
+  - [Zurich Location](https://maps.app.goo.gl/e4Myy6J9FpXSMqJe9)
+
+### Wild Trout Section
+
+- **Wild Trout Section Map**
+  - [Wild Trout Section Map](/img/wild-trout-section.gif)
+- **Pleasant Valley**
+  - [Pleasant Valley Campground Location](https://maps.app.goo.gl/fhE8zfPEr2vYCN6o7)
+  - [Pleasant Valley Reservoir Location](https://maps.app.goo.gl/3dsctPVpDg12GnXH8)
+  - [Pleasant Valley Gorge](https://maps.app.goo.gl/65LJcWK7RmewdcJx9)
+- **Chalk Bluff Road**
+  - [Chaulk Bluff # 1 Location](https://maps.app.goo.gl/5fgy25p5MHb47xGh7)
+  - [Chaulk Bluff # 2 Location](https://maps.app.goo.gl/vviis8rVUYw6gGzv7)
+  - [Chaulk Bluff # 3 Location](https://maps.app.goo.gl/zesmX63T5XYNvdXS6)
+  - [Chaulk Bluff # 4 Location](https://maps.app.goo.gl/Zw2YNC4q3FLvcFDPA)
+- **Owens River Flow**
+  - Wet wading is safe when flows are below 250cfs
+
+### Owens Gorge
+
+https://flyfishingthesierra.com/owens-gorge/
 
 ### Upper Owens
 
 - **Upper Owens Maps**
   - [Upper Owens Map](/img/upper-owens.gif)
 - **Benton Crossing Area**
-  - Location: [Benton Crossing Location](https://maps.app.goo.gl/J89Ssj3uwPF6VLEV8)
-  - Location: [Upper Owens Parking Lot 1 Location](https://maps.app.goo.gl/fG5tm6bJPaVQVaZ47)
-  - Location: [Upper Owens Parking Lot 2 Location](https://maps.app.goo.gl/ViPFnLRuoFwrY3u8A)
-  - Location: [Upper Owens Parking Lot 3 Location](https://maps.app.goo.gl/MNL8xaBcrS67Nsow8)
-  - Location: [Upper Owens Parking Lot 4 Location](https://maps.app.goo.gl/82WS9mEGWMjmqbRx9)
-  - Location: [Upper Owens Parking Lot 5 Location](https://maps.app.goo.gl/e2p3cbSZ1mjqFFw77)
-  - Location: [Upper Owens Parking Lot 6 Location](https://maps.app.goo.gl/iT1UzZamGx4HkXqC8)
-  - Location: [Upper Owens Parking Lot 7 Location](https://maps.app.goo.gl/faXMNgFPX6o1gPXr9)
-  - Location: [Upper Owens Parking Lot 8 Location](https://maps.app.goo.gl/UjxAi8GwgoY1gVeq8)
+  - [Benton Crossing Location](https://maps.app.goo.gl/J89Ssj3uwPF6VLEV8)
+  - [Upper Owens Parking Lot 1 Location](https://maps.app.goo.gl/fG5tm6bJPaVQVaZ47)
+  - [Upper Owens Parking Lot 2 Location](https://maps.app.goo.gl/ViPFnLRuoFwrY3u8A)
+  - [Upper Owens Parking Lot 3 Location](https://maps.app.goo.gl/MNL8xaBcrS67Nsow8)
+  - [Upper Owens Parking Lot 4 Location](https://maps.app.goo.gl/82WS9mEGWMjmqbRx9)
+  - [Upper Owens Parking Lot 5 Location](https://maps.app.goo.gl/e2p3cbSZ1mjqFFw77)
+  - [Upper Owens Parking Lot 6 Location](https://maps.app.goo.gl/iT1UzZamGx4HkXqC8)
+  - [Upper Owens Parking Lot 7 Location](https://maps.app.goo.gl/faXMNgFPX6o1gPXr9)
+  - [Upper Owens Parking Lot 8 Location](https://maps.app.goo.gl/UjxAi8GwgoY1gVeq8)
 - **Big Springs Campground**
-  - Location: [Big Springs Campground](https://maps.app.goo.gl/ciQaghwUp2KbydFx8)
+  - [Big Springs Campground](https://maps.app.goo.gl/ciQaghwUp2KbydFx8)
 - **Long Ears**
   - Locatin: [Road to Long Ears](https://maps.app.goo.gl/mkrVzvxJDTAKbBUc7)
 - **Upper Owens Tips**
@@ -128,8 +133,11 @@
 - [LADWP Upper Owens River Flow Chart](https://wsoweb.ladwp.com/Aqueduct/realtime/lvrealtime.htm)
 - [LADWP Lower Owens River Flow Chart](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm)
 - [Dave's Sierra Fishing Upper Owens](https://www.davessierrafishing.com/mapshtml/upper_owens.html)
-- [Fly Fishing the Sierra Upper Owens](https://flyfishingthesierra.com/upper-owens-river/)
-- [Fly Fishing the Sierra Lower Owens 5 Bridges to Poleta Road](https://flyfishingthesierra.com/lower-owens-river-5-bridges/)
-- [Fly Fishing the Sierra Pleasant Valley Reservoir and Lower Owens Wild Trout](https://flyfishingthesierra.com/pleasant-valley-reservoir/)
-- [Fly Fishing the Sierra Lower Owens River Poleta to Collins Road](https://flyfishingthesierra.com/lower-owens-river-collins/)
-- [Fly Fishing the Sierra Lower Owens River – Collins Road to Zurich](https://flyfishingthesierra.com/lower-owens-river-collins-2/)
+- Fly Fishing the Sierra Owens River Locations:
+  - [Upper Owens](https://flyfishingthesierra.com/upper-owens-river/)
+  - [Owens River Gorge](https://flyfishingthesierra.com/owens-gorge/)
+  - [Pleasant Valley Resevoir](https://flyfishingthesierra.com/pleasant-valley-reservoir/)
+  - [Fly Fishing the Sierra Lower Owens 5 Bridges to Poleta Road](https://flyfishingthesierra.com/lower-owens-river-5-bridges/)
+  - [Fly Fishing the Sierra Pleasant Valley Reservoir and Lower Owens Wild Trout](https://flyfishingthesierra.com/pleasant-valley-reservoir/)
+  - [Fly Fishing the Sierra Lower Owens River Poleta to Collins Road](https://flyfishingthesierra.com/lower-owens-river-collins/)
+  - [Fly Fishing the Sierra Lower Owens River – Collins Road to Zurich](https://flyfishingthesierra.com/lower-owens-river-collins-2/)
