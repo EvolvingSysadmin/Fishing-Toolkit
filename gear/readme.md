@@ -28,7 +28,7 @@
   - Model: 490-4
   - 9', 4 weight
   - Link: <https://echoflyfishing.com/project/echocarbonxl/>
-  - Consider getting Battenkill Disc 3 reel
+  - Consider getting Battenkill Disc 3 click reel with Scientific Anglers Mastery MPX Fly Line
 - **Echo Traverse**
   - Model: TRAV-490
   - 9', 4 weight
@@ -40,24 +40,33 @@
 - **Backcountry packable**
   - St. Croix TSR56ULF4
   - 5'6", 4 piece ultralight travel
-  - Dawai BG1500
+  - 2-6 lb line weight
+  - Shimano FX Spinning Reel FX1000FB
 - **Ultralight**
   - Okuma Celilo Graphite Lightweight CD-S-662UL-1
   - 6'6", ultralite 2 piece
-  - Shimano Sienna 500FD
+  - 2-6 lb line weight
+  - 1/32-3/8 oz lure weight
+  - Daiwa BG 1500
 - **Lake/Bass**
   - SILSTAR 1200-66sp Graphite Composite
   - 6'6" Med Spinning Rod
-  - Shimano FX Spinning Reel FX1000FB
-  - Consider a 2000 size
-- **Bass**
+  - Pflueger President Size 30
+- **Bass/Ocean**
   - 13 Fishing DB2S71MH Defy Black 2
-  - 7'1"
+  - 7'1" Fast MH Power
+  - 3/8-3/4 oz lure weight
+  - 10-20 lb line weight
   - Dawai BG3500
-  - Consider getting used 2500 sized reel
-- **Sentimental Rod**
+- **Vintage Rod**
   - Vintage Fenwick FS61 6'
+  - 1-3 lb line weight
+  - 1/8-1/4 oz kure weight
+  - Shimano Sienna 500FD
 
+- **New Reel**
+  - President® XT Spinning Reel 20: https://www.amazon.com/Pflueger-President-Spinning-Fishing-Reel/dp/B0CK1261ZR?th=1&psc=1 
+  
 ## Flies
 
 - [Streamers/Large Wet Flies](/img/streamers.jpg)
