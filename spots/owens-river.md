@@ -5,9 +5,9 @@
   - [Wild Trout Section](#wild-trout-section)
   - [Owens Gorge](#owens-gorge)
   - [Upper Owens](#upper-owens)
-
 - [Flies](#flies)
   - [Wild Trout Section](#wild-trout-section-flies)
+  - [Owens Gorge](#owens-gorge-flies)
   - [Upper Owens](#upper-owens-flies)
 - [Resources](#resources)
 
@@ -43,7 +43,18 @@
 
 ### Owens Gorge
 
-https://flyfishingthesierra.com/owens-gorge/
+- **Owens Gorge Map**
+  - [Owens Gorge Map](/img/owens-gorge.gif)
+- **Central Gorge**
+  - [Central Gorge Parking Location](https://maps.app.goo.gl/2bLNGStDKPeg1HS58)
+  - [Owens Gorge Gully Trail Location](https://maps.app.goo.gl/mPjRBnLLzZ8NRATM7)
+  - [Lower Central Gorge Parking Location](https://maps.app.goo.gl/aLc214ZRTRvbRBje7)
+- **Lower Gorge**
+  - [Lower Gorge Parking](https://maps.app.goo.gl/qZqiRSHS45LskVZ46)
+  - [Gorge Powerpoint Location](https://maps.app.goo.gl/kmeWqGpydHrxyF4d6)
+- **Pleasant Valley Reservoir**
+  - [Pleasant Valley Boat Ramp Location](https://maps.app.goo.gl/oa8iNsHTqZyJXuhA7)
+  - [Pleasant Valley Power House Location](https://maps.app.goo.gl/BWNmCL2aaWfjKZVh6)
 
 ### Upper Owens
 
@@ -101,6 +112,25 @@ https://flyfishingthesierra.com/owens-gorge/
   - [Bird's Nest](/img/birds-nest.jpg) #16-20
   - [Olive Hot Spot Jig](/img/olive-hot-spot-jig.jpg) #18
 
+### Owens Gorge flies
+  
+- **Streamers**
+  - [Parachute Adams](/img/parachute-adams.jpg) #16-18
+  - [Olive Caddis](/img/olive-caddis.jpg) #16-18
+  - [Royal Wulff](/img/royal-wulff.jpg) #16-18
+  - [Yellow Humpy](/img/yellow-humpy.jpg) #14
+  - [Griffith’s Gnat](/img/griffiths-gnat.jpg) #16-18
+  - [Black Gnat](/img/black-gnat.jpg) #18
+  - [Henrys Fork Hopper](/img/henrys-fork-hopper.jpg) #14
+  - [Chernobyl Ant](/img/chernobyl-ant.jpg) #16
+  - [Orange or Yellow Stimulator](/img/orange-stimulator.jpg) #16
+-**Nymph Flies**
+  - [Pheasant Tail Nymph](/img/pheasant-tail-nymph.jpg) #16-18
+  - [Prince Nymph](/img/prince-nymph-beadhead.jpg) #16-18
+  - [Copper John](/img/black-copper-john.jpg) #16-18
+  - [Zebra Midge](/img/zebra-midge.jpg) #16-18
+  - [WD 40](/img/wd40.jpg) #20
+
 ### Upper Owens Flies
 
 - **Dry Flys**
@@ -138,6 +168,5 @@ https://flyfishingthesierra.com/owens-gorge/
   - [Owens River Gorge](https://flyfishingthesierra.com/owens-gorge/)
   - [Pleasant Valley Resevoir](https://flyfishingthesierra.com/pleasant-valley-reservoir/)
   - [Fly Fishing the Sierra Lower Owens 5 Bridges to Poleta Road](https://flyfishingthesierra.com/lower-owens-river-5-bridges/)
-  - [Fly Fishing the Sierra Pleasant Valley Reservoir and Lower Owens Wild Trout](https://flyfishingthesierra.com/pleasant-valley-reservoir/)
   - [Fly Fishing the Sierra Lower Owens River Poleta to Collins Road](https://flyfishingthesierra.com/lower-owens-river-collins/)
   - [Fly Fishing the Sierra Lower Owens River – Collins Road to Zurich](https://flyfishingthesierra.com/lower-owens-river-collins-2/)
