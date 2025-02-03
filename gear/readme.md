@@ -37,22 +37,23 @@
 
 ### Spinning Combos
 
-- **Backcountry packable**
+- **Backcountry Packable**
   - St. Croix TSR56ULF4
   - 5'6", 4 piece ultralight travel
   - 2-6 lb line weight
-  - Shimano FX Spinning Reel FX1000FB
-- **Ultralight**
+  - Daiwa BG 1500
+- **Spare Ultralight**
   - Okuma Celilo Graphite Lightweight CD-S-662UL-1
   - 6'6", ultralite 2 piece
   - 2-6 lb line weight
   - 1/32-3/8 oz lure weight
-  - Daiwa BG 1500
+  - Shimano FX Spinning Reel FX1000FB
+  - Perhaps eventually replace with Pflueger President XT Spinning Fishing Reel size 20
 - **Lake/Bass**
   - SILSTAR 1200-66sp Graphite Composite
   - 6'6" Med Spinning Rod
   - Pflueger President Size 30
-- **Bass/Ocean**
+- **Ocean**
   - 13 Fishing DB2S71MH Defy Black 2
   - 7'1" Fast MH Power
   - 3/8-3/4 oz lure weight
@@ -62,10 +63,10 @@
   - Vintage Fenwick FS61 6'
   - 1-3 lb line weight
   - 1/8-1/4 oz kure weight
+  - Vintage Shakespeare 2052 Ultralight Spinning Reel
+  - Vinate Super Duper 501s and Jitterbug
+- **Spare Reel**
   - Shimano Sienna 500FD
-
-- **New Reel**
-  - President® XT Spinning Reel 20: https://www.amazon.com/Pflueger-President-Spinning-Fishing-Reel/dp/B0CK1261ZR?th=1&psc=1 
   
 ## Flies
 
@@ -74,6 +75,7 @@
 - [Wet Flies 1](/img/wet-flies-1.jpg)
 - [Wet Flies 2](/img/wet-flies-2.jpg)
 - [Tenkara Kebari](/img/kebari.jpg)
+- Now organized by winter/river box, packable backcountry box, larger backcountry box, and tenkara box
 
 ## Lures
 
