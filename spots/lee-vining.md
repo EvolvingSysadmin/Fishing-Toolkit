@@ -40,15 +40,45 @@
 - **Saddlebag Lake**
   - Location: [Saddleback Lakes Location](https://maps.app.goo.gl/xSBvcr1sDcsf15Gz5)
   - Trailhead: [Saddleback Lakes Trailhead](https://maps.app.goo.gl/qPRGJcjvVNrqbFrh6)
+- **Saddlebag Creek**
+  - TODO
+  - Small, open meadow stream that flows for 2 miles
+  - Flows from Saddlebag Lake dam down to the junction of Highway 120 and Saddlebag Road
+  - There's a campground near the junction at 9,600'
+  - The upper stream has brookies
 - **Ellery Lake**
-  - Location: [Ellery Lake Location](https://www.google.com/maps?q=Ellery+Lake&ftid=0x8096501c0f3a742f:0x7e01357d18f1c29d)
+  - Location: [Ellery Lake Location](https://maps.app.goo.gl/zBwBQbTBx7Wws7y66)
   - Large Rainbows will be feeding along the shorelines in the Spring, particularly around the inlet of Lee Vining Creek
   - May have Goldens
+- **Hummingbird Lake**
+  - Location: [Hummingbird Lake Location](https://maps.app.goo.gl/vt7BPtsB1uoZBSYC7)
+  - Lies within the 20 lakes basin
+  - 20 lakes basin trail
+  - Dozens of other lakes in this basin
+  - TODO
+- **Odell Lake**
+  - Location: [Odell Lake](https://maps.app.goo.gl/UEJa51NwAEuMRKZr8)
+  - TODO
+  - Has Goldens
+  - The north end in the area closest to Helen lake fishes well
+- **Wasco Lake**
+  - TODO
+  - Location: [Wasco Lake](https://maps.app.goo.gl/CMiCiTJgeHisHxui7)
+  - The eastern and western shores have good fishing
+- **Hidden Lake**
+  - Can be reached by scrambling up the hill from the main trail just a few yards from Wasco Lake
+  - Not as popular as other lakes
+  - Has Goldens
+  - TODO
+- **Z Lake**
+  - No trail
+  - Walk east from Hidden Lake crosscountry to get to Z Lake
+  - TODO
 - **Lee Vining Creek**
   - Location: [Lee Vining Creek Location](https://maps.app.goo.gl/2H8Pz2SvFAjFLWW79)
   - Trailhead: [Sawmill Campground](https://maps.app.goo.gl/oiG12Nodc8DfDJWVA)
-  - Between Ellery and Saddlebag Lake
-  - Best accessed from Sawmill Campground
+  - Between Ellery and Saddlebag Lake along Highwawy 120
+  - Best accessed from Sawmill Campground, although there are several exits on the left as you drive up Tioga road that all lead to the creek
   - The creek just about doubles in size with the confluence of Saddlebag Creek and brown trout can be found below the confluence and past the campground
   - Just before the creek’s inlet into Ellery Lake, rainbows are planted near the Hwy 120 bridge at the Junction Campground
 - **Mine Creek**

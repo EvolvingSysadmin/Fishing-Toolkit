@@ -18,6 +18,7 @@
   - [McGee Creek](/spots/mcgee-creek.md)
   - [Owens River](/spots/owens-river.md)
   - [Pine Creek](/spots/pine-creek.md)
+  - [Rock Creek](/spots/rock-creek.md)
 - [Reports](/reports/readme.md)
 - [Techniques](/techniques/readme.md)
 - [Hatch](/hatch/readme.md)

@@ -31,9 +31,12 @@
 - **Mamie Lake**
   - Location: [Mamie Lake Location](https://maps.app.goo.gl/skfyswoJZ2HDsLPm7)
   - 8,800'
+  - Has a reputation for being one of the most productive lakes in Mammoth
+  - Good fishing spots across from the boat dock
 - **Lake George**
   - Location: [Lake George Location](https://maps.app.goo.gl/MfiUouHCRmp8kCyJA)
   - 9,060'
+  - Highest in elevation and deepest of the Mammoth Lakes that can be driven to
 - **Horseshoe Lake**
   - Location: [Horseshoe Lake Location](https://maps.app.goo.gl/5Mq92QMt2B6a3CRb7)
   - 8,880'
@@ -47,6 +50,7 @@
   - Trailhead: [Lakes Basin Path / Horseshoe Lake Trailhead](https://maps.app.goo.gl/MsCAzPHZ8uqGdjf46)
   - AllTrails: [McLeod Lake AllTrails Map](https://www.alltrails.com/trail/us/california/mcleod-lake-trail)
   - 9,250'
+  - Might have cutthroat trout
 
 ### Sherwin Creek
 
@@ -54,6 +58,7 @@
   - Location: [Sherwin Creek Location](https://maps.app.goo.gl/3QtkUVgWX9JvML3Q8)
   - Trailhead: [Sherwin Lakes Trailhead](https://maps.app.goo.gl/UiwTT44jLTdiTGZN9)
   - AllTrails: [Sherwin Creek AllTrails Map](https://www.alltrails.com/explore/trail/us/california/sherwin-lakes-trail)
+  - Fish are planted at Sherwin Creek campground
 - **Sherwin Lakes**
   - Location: [Sherwin Lakes Location](https://maps.app.goo.gl/PVKxC395dDhwKrPu8)
   - Trailhead: [Sherwin Lakes Trailhead](https://maps.app.goo.gl/UiwTT44jLTdiTGZN9)

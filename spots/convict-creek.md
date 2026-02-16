@@ -22,7 +22,10 @@
   - AllTrails: [Laurel Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/convict-lake-to-lake-genevieve-and-laurel-lakes)
   - Laurel Lakes drain into Laurel Creek which follows the jeep road
   - 2 Lakes that contain Goldens
+  - Requires high clearance vehicle to drive to
+  - 10,000'
   - 1/2 mile from end of road, one lake at 10,000' and the next at 10,500'
+    - The outlet of the smaller lake is a good spot to fish
 - **Mildred Lake**
   - Location: [Mildred Lake Location](https://maps.app.goo.gl/g5H3z9hfcEe2QEvQ7)
   - Trailhead: [Mildred Lake/Dorothy Lake Trailhead](https://maps.app.goo.gl/wBwCx3DVkshwWcnC7)

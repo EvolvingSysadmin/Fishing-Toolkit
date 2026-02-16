@@ -30,8 +30,9 @@
   - Areas to fish:
     - Reedbeds along the northern shoreline
     - Western shoreline
-    - The hole just to the left of the marina
-    - The Rock
+    - The hole just to the left of the marina that runs along Highway 158
+    - The Rock, which is seen from Highway 158
+  - Has some of the biggest fish in the loop
 - **June Lake**
   - Location: [Location](https://maps.app.goo.gl/cgAvRtVCq6URmwvJ9)
   - Areas to fish:
@@ -49,11 +50,12 @@
     - The peninsula
     - Sheepherders' Bay
     - The Narrows near the marina
+    - The jetty
 - **Rush Creek**
   - Location: [Location](https://maps.app.goo.gl/GNW5QQFQHKq9UEfd7)
   - Areas to fish:
-    - Between Silver and Grant Lake
-    - Below Grant Lake
+    - Between Silver and Grant Lake, near the Silver Lake campground
+    - Right before Grant Lake
     - Where Rush Creek enters Mono Lake
 - **Reversed Creek**
   - Location: [Location](https://maps.app.goo.gl/ZNY3zMYQUgDnZno19)
@@ -69,6 +71,9 @@
   - Trailhead: [Park Lake Trailhead](https://maps.app.goo.gl/aR6vWN6RiQ8GqKiXA)
   - AllTrails: [Park Lake AllTrails]<https://www.alltrails.com/explore/trail/us/california/parker-lake-trail>
   - 2 miles from trailhead at 8,350'
+  - Areas to fish:
+    - Near the outlet
+    - Parker Creek, which parallels the trail for must of the way
 - **Walker Lake**
   - Location: [Walker Lake Location](https://maps.app.goo.gl/x13afeXLZSaodTx99)
   - Trailhead: [Walker Lake Trailhead](https://maps.app.goo.gl/LyNn4QQrcnWwvMHr5)
@@ -80,6 +85,12 @@
   - Location: [Sardine Lakes Location](https://maps.app.goo.gl/V2A5R8YPhBj6tgF46)
   - Trailhead: [Walker Lake Trailhead](https://maps.app.goo.gl/LyNn4QQrcnWwvMHr5)
   - AllTrails: [Sardine Lakes AllTrails Map](https://www.alltrails.com/explore/trail/us/california/bloody-canyon-trail)
+- **Glass Creek**
+  - TODO
+  - Take glass creek road
+- **Deadmans Creek**
+  - TODO
+  - Next road south of glass creek road to the campground
 
 ### Agnew Lake Backcountry
 

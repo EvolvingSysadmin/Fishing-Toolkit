@@ -18,10 +18,13 @@
 - **Trumbull Lake**
   - Location: [Trumbull Lake Location](https://maps.app.goo.gl/fRtZkqDLRyxx7zV2A)
   - Accessible from parking lot
+  - Great to fish in October
+  - Initial inlet fishes well and on the large boulders near the reeds
   - 9,700'
 - **Big Virginia Lake**
   - Location: [Big Virginia Lake Location](https://maps.app.goo.gl/RuRXuzsnnFF4Hr467)
   - Accessible from parking lot
+  - Entire north shore is accessible
   - At 9,800′
 - **Little Virginia Lake**
   - Location: [Little Virginia Lake Location](https://maps.app.goo.gl/2Si3RWAC8t2a8XGJ6)
@@ -38,11 +41,14 @@
   - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
   - AllTrails: [Blue Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
   - 0.5 miles past trailhead 9,886'
+  - The inlet end of the lake fishes well
+  - Blue Lake is very productive
 - **Moat Lake**
   - Location: [Moat Lake Location](https://maps.app.goo.gl/ZGJidE2TSC3TNbtm6)
   - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
   - AllTrails: [Moat Lake AllTrails Map](https://www.alltrails.com/explore/trail/us/california/virginia-lakes-trail)
   - The trail branches off to Moat Lake ( 8 acres) which is a strenuous hike up to 10,575′ and about 1.5 hours of hiking from the trailhead
+  - Has Goldens
 - **Cooney Lake**
   - Location: [Cooney Lake Location](https://maps.app.goo.gl/JkotvbUx6dNu7m5b8)
   - Trailhead: [Virginia Lakes Trailhead](https://maps.app.goo.gl/jXHySwP8GV9rGrK86)
@@ -104,7 +110,8 @@
   - Location: [Lundy Lake Location](https://maps.app.goo.gl/GMFDXwkf6eRpqTo78)
   - Accessible by car, located at 7,800'
   - The best areas to float tube are the shallower waters around the inlet and the launch area
-  - The lake is known for strong winds during the afternoon, so morning is the best time to flyfish.
+  - The lake is known for strong winds during the afternoon, so morning is the best time to flyfish
+  - Trail along the south side climbs to backcountry lakes like Oneida, Crystal, and Blue
 - **Mill Creek**
   - Location: [Mill Creek Location](https://maps.app.goo.gl/aj3JtUPWawjNsAEf9)
   - A trailhead exists at the dam which takes you for about a 2 hour hike up a very steep, strenuous trail to some upper lakes in the Lake Canyon area
@@ -122,6 +129,9 @@
   - Location: [Blue Lake Location](https://maps.app.goo.gl/p1SjFQCNHwjFKrud7)
   - Trailhead: [Lundy Canyon Trailhead](https://maps.app.goo.gl/cGDy4cTmzmVs6tFG8)
   - AllTrails: [Blue Lake AllTrails](https://www.alltrails.com/trail/us/california/lundy-to-oneida-lake-trail)
+- **Virginia Creek**
+  - TODO
+  - On virginia lakes road or along 395
 
 ### Twin Lakes
 
@@ -131,6 +141,9 @@
   - Location: [Twin Lakes Location](https://maps.app.goo.gl/Viee6fjZEfHxiXz5A)
   - Has an upper and lower lake
   - Best fly fishing is by float tubing along the banks in the early morning and late evening
+  - Lower Twin lake fishes well right before it meets Upper Twin
+  - Lower Twin also fishes well near the boat ramp
+  - TODO
   - At 7,000'
 - **Barney Lake**
   - Location: [Barney Lake Location](https://maps.app.goo.gl/k4AacU7rRSPo3sax7)
@@ -143,6 +156,9 @@
   - AllTrails: [Robinson Creek AllTrails Map](https://www.alltrails.com/trail/us/california/robinson-creek-trail-to-maltby-and-ice-lakes)
   - 13 miles of fishable stream going from 7,000′ to 6,400′
   - Parallel to Twin Lakes Road and also from Hwy 395 where it crosses about 2 miles north of Bridgeport
+  - The Robinson Creek campground fishes well
+  - Just below lower Twin Lake is a good spot
+  - TODO
 - **Buckeye Creek**
   - Location: [Buckeye Creek Location](https://maps.app.goo.gl/gXojvtk3XDk3NJd26)
   - Trailhead: [Buckeye Creek Trailhead](https://maps.app.goo.gl/A9D1V6fW81CUN5jc8)
@@ -176,6 +192,22 @@
   - Trailhead: [Tamarack Lake Trailhead](https://maps.app.goo.gl/YonLAKaotutXa7ao8)
   - AllTrails: [Hunewill Lake AllTrails](https://www.alltrails.com/trail/us/california/tamarack-lake-trail-twin-lakes)
   - 1/2 mile beyond Tamarack Lake
+- **Leavitt Meadows**
+- **Roosevelt Lake**
+  - 7,300'
+  - Leavitt meadow trailhead
+  - Outlet and inlet are productive
+  - TODO
+- **Green Creek**
+  - Green Creek campground
+  - Many spots along the road to pull over and fish
+  - TODO
+- **Heenan Lake**
+  - TODO
+- **Kirman Lake**
+  - TODO
+  - Trail begins near Sonora campground
+  - Float tubes work well
 
 ### East Walker River
 
