@@ -94,7 +94,7 @@
     - Not exact trail directions
   - 9 miles from Cottonwood Trailhead over New Army Pass. The trail follows the creek for 3 miles. The creek goes another 4 miles to the Kern River, although the last mile is too steep to fish.
 - **Sky Blue Lakes**
-  - Location: [Sky Blue Lakes Location]( 2.5 miles from the trail over New Army Pass. The lakes are at 11,600)
+  - Location: 2.5 miles from the trail over New Army Pass. The lakes are at 11,600'
   - Trailhead: [Cottonwood Lakes Trailhead](https://maps.app.goo.gl/QLePWNJbRYqqBMSg8)  
   - AllTrails: [Sky Blue Lakes AllTrails Map](https://www.alltrails.com/trail/us/california/cottonwood-lakes-trail)
     - Not exact trail directions

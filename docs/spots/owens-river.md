@@ -158,7 +158,7 @@
 
 ## Resources
 
-- [Mammoth Fisheries](/resources/Mammoth-Fisheries-Summer-Trifecta.pdf)
+- [Mammoth Fisheries guide](../resources.md)
 - [California Fly Fishing Upper Owens Fly Fishing Report](https://www.californiaflyfishingreports.com/upper-owens-river)
 - [LADWP Upper Owens River Flow Chart](https://wsoweb.ladwp.com/Aqueduct/realtime/lvrealtime.htm)
 - [LADWP Lower Owens River Flow Chart](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm)
